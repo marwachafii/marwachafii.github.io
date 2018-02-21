@@ -1,0 +1,32 @@
+<h3>Revues scientifiques</h3>
+<div class="panel panel-default" ng-repeat="publication in journals">
+  <div class="panel-body">
+	<a type="button" class="close glyphicon glyphicon-link" data-dismiss="alert" ng-href="{{publication.link}}" target="_blank">
+		<span aria-hidden="true"></span><span class="sr-only">link</span>
+	</a>
+	<div ng-bind="publication.title" class="pub-title"></div>
+	<span ng-bind="publication.body" class="pub-body"></span>			
+  </div>
+</div>
+
+<h3>Conférences Internationales</h3>
+<div class="panel panel-default" ng-repeat="publication in publications">
+  <div class="panel-body">
+	<a type="button" class="close glyphicon glyphicon-link" data-dismiss="alert" ng-href="{{publication.link}}" target="_blank">
+		<span aria-hidden="true"></span><span class="sr-only">link</span>
+	</a>
+	<div ng-bind="publication.title" class="pub-title"></div>
+	<span ng-bind="publication.body" class="pub-body"></span>				
+  </div>
+</div>
+
+<h3>Conférence Nationale</h3>
+<div class="panel panel-default" ng-repeat="publication in nationals">
+  <div class="panel-body">
+	<a type="button" class="close glyphicon glyphicon-link" data-dismiss="alert" ng-href="{{publication.link}}" target="_blank">
+		<span aria-hidden="true"></span><span class="sr-only">link</span>
+	</a>
+	<div ng-bind="publication.title" class="pub-title"></div>
+	<span ng-bind="publication.body" class="pub-body"></span>			
+  </div>
+</div>

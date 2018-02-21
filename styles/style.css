@@ -1,0 +1,20 @@
+.date{
+	min-width: 128px;
+}
+
+.pub-title{
+	font-weight: bold;
+}
+
+.pub-body{
+	font-style: italic;
+	color:gray;
+}
+
+.hidden{
+	display: none;
+}
+
+.view-content{
+	 padding-top:20px;
+}
