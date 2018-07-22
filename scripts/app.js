@@ -75,6 +75,11 @@ app.controller('controller',[ '$scope' , '$rootScope' , '$location' , function($
 	
 	$scope.journals	= [
 		{
+			title: 'Adaptive Wavelet Packet Modulation',
+			link : 'https://hal-centralesupelec.archives-ouvertes.fr/hal-01713821/document',
+			body : 'Chafii M,  Palicot J, Gribonval R, and Bader F "Adaptive Wavelet Packet Modulation". IEEE Transactions on Communications, February 2018'
+		},
+		{
 			title: 'DCT-OFDM with Index Modulation',
 			link : 'https://hal-centralesupelec.archives-ouvertes.fr/hal-01488900/document',
 			body : 'Chafii M,  Coon J, and Hedges D, "DCT-OFDM with Index Modulation". IEEE Communications Letters, 2017'
@@ -98,6 +103,11 @@ app.controller('controller',[ '$scope' , '$rootScope' , '$location' , function($
 	];
 	
 	$scope.publications	= [
+		{
+			title: 'Extended GFDM Framework: OTFS and GFDM Comparison',
+			link : '#',
+			body : 'Nimr A, Chafii M, Maximilian M, Fettweis G, "". IEEE GLOBECOM (Abu Dhabi, UAE, 2018).'
+		},
 		{
 			title: 'Enhancing Coverage in Narrow Band-IoT Using Maching Learning',
 			link : '#',
