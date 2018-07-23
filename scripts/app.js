@@ -109,6 +109,16 @@ app.controller('controller',[ '$scope' , '$rootScope' , '$location' , function($
 			body : 'Nimr A, Chafii M, Maximilian M, Fettweis G, "". IEEE GLOBECOM (Abu Dhabi, UAE, 2018).'
 		},
 		{
+			title: 'Performance Analysis of a 5G Transceiver Implementation for Remote Areas Scenarios',
+			link : '#',
+			body : 'Dias W, Gaspar D M, Mendes L, Maximilian M, Neuhaus P, Fettweis G, "". EuCNC (Ljubljana, Slovenia, 2018).'
+		},
+		{
+			title: 'Fourier Based Adaptive Waveform,',
+			link : '#',
+			body : 'Chafii M, Palicot J,  Gribonval R, Faouzi B "". ICT(Saint-Malo, France, 2018).'
+		},
+		{
 			title: 'Enhancing Coverage in Narrow Band-IoT Using Maching Learning',
 			link : '#',
 			body : 'Chafii M, Faouzi B, Palicot J, "". IEEE WCNC (Barcelona, Spain, 2017).'
