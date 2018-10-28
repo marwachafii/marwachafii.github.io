@@ -1,5 +1,5 @@
 <h3>Journals</h3>
-<div class="panel panel-default" ng-repeat="publication in journals">
+<div class="panel panel-default publication" ng-repeat="publication in journals">
   <div class="panel-body">
 	<a type="button" class="close glyphicon glyphicon-link" data-dismiss="alert" ng-href="{{publication.link}}" target="_blank">
 		<span aria-hidden="true"></span><span class="sr-only">link</span>
@@ -20,7 +20,7 @@
   </div>
 </div>
 
-<h3>National Conference</h3>
+<h3>National Conferences</h3>
 <div class="panel panel-default" ng-repeat="publication in nationals">
   <div class="panel-body">
 	<a type="button" class="close glyphicon glyphicon-link" data-dismiss="alert" ng-href="{{publication.link}}" target="_blank">

@@ -1,5 +1,18 @@
+body {
+	margin: 8px;
+}
+
 .date{
 	min-width: 128px;
+}
+
+.panel {
+	margin-bottom: 0 !important;
+	border: 0 !important;
+}
+
+.panel:hover {
+	background-color:rgba(144, 141, 199, 0.07);
 }
 
 .pub-title{
@@ -9,12 +22,26 @@
 .pub-body{
 	font-style: italic;
 	color:gray;
+	font-size: 12px;
 }
 
-.hidden{
+.panel-body {
+	padding: 8px 3px 8px 3px !important;
+}
+
+.panel-body a {
+	padding-left: 2px;
+}
+
+.panel-body a:hover {
+	color: #428bca !important;
+	opacity: 1;
+}
+
+.hidden {
 	display: none;
 }
 
-.view-content{
-	 padding-top:20px;
+.view-content {
+	 /* padding: 20px 0px 0px 0px !important; */
 }

@@ -1,80 +1,76 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Marwa Chafii</title>
-	
-	<link href="styles/style.css" rel="stylesheet">
-	
-    <!-- Bootstrap -->
-    <link href="components/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Marwa Chafii</title>
+
+	<link href="styles/style.css" rel="stylesheet">
+
+	<!-- Bootstrap -->
+	<link href="components/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 	<style>
-		.nav-pills>li>a{
+		.nav-pills>li>a {
 			border-radius: 0px;
 		}
-		.nav-pills>li.menu-item.active>a{
+
+		.nav-pills>li.menu-item.active>a {
 			background-color: #908DC7;
 		}
-		
-		.nav-pills>li.lang-item.active>a{
+
+		.nav-pills>li.lang-item.active>a {
 			color: #848484;
 			background-color: #DEE2E5;
 		}
-		
 	</style>
-	 <script src="components/angular/angular.min.js"></script>
-	 <script src="components/angular/angular-route.min.js"></script>
-	
+	<script src="components/angular/angular.min.js"></script>
+	<script src="components/angular/angular-route.min.js"></script>
+
 	<script src="scripts/app.js"></script>
-  </head>
-  <body ng-app="page" ng-controller="controller">
+</head>
+
+<body ng-app="page" ng-controller="controller">
 	<div class="row">
-		<div class="col-md-2 col-md-offset-1">
+		<!-- <div class="col-md-2 col-md-offset-1">
 			<img src="images/rsz_cs.png" class="img-responsive"  style="max-height:80px;">
-		</div>
-		<div class="col-md-5 col-md-offset-1">
-			<center>
-				<br><br>
-				<ul class="nav nav-pills" role="tablist">
-				  <li role="presentation" class="lang-item" ng-class="{active:root.lang=='fr'}"><a href ng-click="switchTo('/en/','/fr/')">Français</a></li>
-				  <li role="presentation" class="lang-item" ng-class="{active:root.lang=='en'}"><a href ng-click="switchTo('/fr/','/en/')">English</a></li>
-				</ul>
-			</center>
-		</div>
+		</div> -->
 	</div>
 	<div class="row"><br></div>
 	<div class="row">
-		<div class="col-md-12">
-			<div class="row">	
-				<div class="col-md-2 col-md-offset-1">
-					<ul class="nav nav-pills nav-stacked" role="tablist">
-					  <li role="presentation" class="menu-item" ng-class="{active:root.page=='home'}"><a ng-href="#/{{root.lang}}/home/" ng-bind="TEXT['HOME'][root.lang]"></a></li>
-					  <li role="presentation" class="menu-item" ng-class="{active:root.page=='pubs'}"><a ng-href="#/{{root.lang}}/pubs/" ng-bind="TEXT['PUBLICATIONS'][root.lang]"></a></li>
-					  <li role="presentation" class="menu-item" ng-class="{active:root.page=='research-interests'}"><a ng-href="#/{{root.lang}}/research-interests/"  ng-bind="TEXT['INTERESTS'][root.lang]"></a></li>
-					  <li role="presentation" class="menu-item" ng-class="{active:root.page=='research-experience'}"><a ng-href="#/{{root.lang}}/research-experience/"  ng-bind="TEXT['EXPERIENCE'][root.lang]"></a></li>
-					  <li role="presentation" class="menu-item" ng-class="{active:root.page=='teaching'}"><a ng-href="#/{{root.lang}}/teaching/"  ng-bind="TEXT['TEACHING'][root.lang]"></a></li>
-					  <li role="presentation" class="menu-item" ng-class="{active:root.page=='services'}"><a ng-href="#/{{root.lang}}/services/"  ng-bind="TEXT['SERVICES'][root.lang]"></a></li>
-					</ul>
-				</div>	
-				<div ng-class="{hidden:root.page=='home'}" class="col-md-5 view-content" ng-view>
-				</div>
-				<div class="col-md-3" ng-class="{'col-md-offset-1':root.page=='home'}" ng-include='"./views/me-" + root.lang + ".html"'>
-				</div>
-			</div>
+		<div class="col-md-2">
+			<ul class="nav nav-pills nav-stacked" role="tablist">
+				<li role="presentation" class="menu-item" ng-class="{active:root.page=='home'}"><a ng-href="#/{{root.lang}}/home/"
+					 ng-bind="TEXT['HOME'][root.lang]"></a></li>
+				<li role="presentation" class="menu-item" ng-class="{active:root.page=='pubs'}"><a ng-href="#/{{root.lang}}/pubs/"
+					 ng-bind="TEXT['PUBLICATIONS'][root.lang]"></a></li>
+				<li role="presentation" class="menu-item" ng-class="{active:root.page=='research'}"><a ng-href="#/{{root.lang}}/research/"
+					 ng-bind="TEXT['RESEARCH'][root.lang]"></a></li>
+				<li role="presentation" class="menu-item" ng-class="{active:root.page=='cv'}"><a ng-href="#/{{root.lang}}/cv/"
+					 ng-bind="TEXT['CV'][root.lang]"></a></li>
+				<li role="presentation" class="menu-item" ng-class="{active:root.page=='teaching'}"><a ng-href="#/{{root.lang}}/teaching/"
+					 ng-bind="TEXT['TEACHING'][root.lang]"></a></li>
+				<li role="presentation" class="menu-item" ng-class="{active:root.page=='services'}"><a ng-href="#/{{root.lang}}/services/"
+					 ng-bind="TEXT['SERVICES'][root.lang]"></a></li>
+			</ul>
+		</div>
+		<div ng-class="{hidden:root.page=='home'}" class="col-md-7 view-content" ng-view>
+		</div>
+		<div class="col-md-3" ng-class="{'col-md-offset-1':root.page=='home'}" ng-include='"./views/me-" + root.lang + ".html"'>
 		</div>
 	</div>
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="components/jquery/jquery.min.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="components/bootstrap/js/bootstrap.min.js"></script>
-  </body>
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+	<script src="components/jquery/jquery.min.js"></script>
+	<!-- Include all compiled plugins (below), or include individual files as needed -->
+	<script src="components/bootstrap/js/bootstrap.min.js"></script>
+</body>
+
 </html>
