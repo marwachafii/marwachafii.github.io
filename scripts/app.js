@@ -221,8 +221,8 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 			title: "Since September 2018: Associate Professor ",
 			body: [
 				"ENSEA (Ecole nationale superieure de l'Electronique et de ses Applications)",
-				"ETIS, ICI team, UMR CNRS 8051",
-				"Universit'e Cergy-Pontoise, Universit2 Paris-Seine",
+				"ETIS, UMR 8051",
+				"Université Paris-Seine, Université Cergy-Pontoise, ENSEA, CNRS",
 				"France"
 			]
 		},
