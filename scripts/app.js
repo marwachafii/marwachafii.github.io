@@ -75,6 +75,16 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.journals = [
 		{
+			title: 'Unified Low Complexity Radix-2 Architectures for Time and Frequency-domain GFDM Modem',
+			link: 'https://hal.archives-ouvertes.fr/view/index/docid/1968962',
+			body: 'Nimr A,  Matthe M, Chafii M, and Fettweis G. IEEE Circuits and Systems Magazine, 2018'
+		},
+		{
+			title: 'Pilot- and CP-aided Channel Estimation in MIMO Non-Orthogonal Multi-Carriers',
+			link: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8573153',
+			body: 'Ehsanfar S,  Matthe M, Chafii M, and Fettweis G. IEEE Transactions on Wireless Communications, November 2018'
+		},		
+		{
 			title: 'Adaptive Wavelet Packet Modulation',
 			link: 'https://hal-centralesupelec.archives-ouvertes.fr/hal-01713821/document',
 			body: 'Chafii M,  Palicot J, Gribonval R, and Bader F. IEEE Transactions on Communications, February 2018'
@@ -104,9 +114,19 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.publications = [
 		{
+			title: 'Blind Carrier Frequency Offset Estimation in Generalized Frequency Division Multiplexing',
+			link: '#',
+			body: 'Martinez A, Maximilian M, Chafii M, Fettweis G. IEEE ICNC (Honolulu, Hawaii, United States, February 2019).'
+		},
+		{
+			title: 'Practical GFDM-based Linear Receivers',
+			link: '#',
+			body: 'Nimr A, Chafii M, Fettweis G. IEEE SCC (Rostock, Germany, February 2019).'
+		},
+		{
 			title: 'Extended GFDM Framework: OTFS and GFDM Comparison',
 			link: '#',
-			body: 'Nimr A, Chafii M, Maximilian M, Fettweis G. IEEE GLOBECOM (Abu Dhabi, UAE, 2018).'
+			body: 'Nimr A, Chafii M, Maximilian M, Fettweis G. IEEE GLOBECOM (Abu Dhabi, UAE, December 2018).'
 		},
 		{
 			title: 'Performance Analysis of a 5G Transceiver Implementation for Remote Areas Scenarios',
@@ -116,7 +136,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		{
 			title: 'Fourier Based Adaptive Waveform,',
 			link: '#',
-			body: 'Chafii M, Palicot J,  Gribonval R, Faouzi B. ICT(Saint-Malo, France, 2018).'
+			body: 'Chafii M, Palicot J,  Gribonval R, Faouzi B. ICT (Saint-Malo, France, June 2018).'
 		},
 		{
 			title: 'Enhancing Coverage in Narrow Band-IoT Using Maching Learning',
