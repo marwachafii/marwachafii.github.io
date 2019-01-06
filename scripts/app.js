@@ -264,11 +264,15 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.students = [
 		{
+			title: "Abdul karim Gizzini (2019-2021)",
+			body: "Machine Learning Based Channel Estimation for Vehicular Communications"
+		},
+		{
 			title: "Roberto Bomfin (2016-2020)",
 			body: "Chirp-based Multicarrier Waveform"
 		},
 		{
-			title: "Ana-Belen Martinez(2015-2019)",
+			title: "Ana-Belen Martinez (2015-2019)",
 			body: "Synchronization for MIMO-GFDM"
 		},
 		{
