@@ -77,7 +77,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		{
 			title: 'Unified Low Complexity Radix-2 Architectures for Time and Frequency-domain GFDM Modem',
 			link: 'https://hal.archives-ouvertes.fr/view/index/docid/1968962',
-			body: 'Nimr A,  Matthe M, Chafii M, and Fettweis G. IEEE Circuits and Systems Magazine, 2018'
+			body: 'Nimr A, Chafii M, and Fettweis G. IEEE Circuits and Systems Magazine, 2018'
 		},
 		{
 			title: 'Pilot- and CP-aided Channel Estimation in MIMO Non-Orthogonal Multi-Carriers',
