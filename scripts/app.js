@@ -120,12 +120,12 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		},
 		{
 			title: 'Practical GFDM-based Linear Receivers',
-			link: '#',
+			link: 'https://hal.archives-ouvertes.fr/hal-01968998/document',
 			body: 'Nimr A, Chafii M, Fettweis G. IEEE SCC (Rostock, Germany, February 2019).'
 		},
 		{
 			title: 'Extended GFDM Framework: OTFS and GFDM Comparison',
-			link: '#',
+			link: 'https://hal.archives-ouvertes.fr/hal-01968970/document',
 			body: 'Nimr A, Chafii M, Maximilian M, Fettweis G. IEEE GLOBECOM (Abu Dhabi, UAE, December 2018).'
 		},
 		{
