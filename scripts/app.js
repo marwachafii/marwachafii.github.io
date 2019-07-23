@@ -114,6 +114,47 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.publications = [
 		{
+			title: 'Real-Time Waveform Prototyping',
+			link: '#',
+			body: 'Danneberg D, Li Z, Nimr A, Ehsanfar S, Chafii M, Fettweis G. IEEE SPAWC (Cannes, France, July, 2019).'
+		},
+		{
+			title: 'Time-Variant Pilot- and CP-Aided Channel Estimation for GFDM',
+			link: '#',
+			body: 'Ehsanfar S, Chafii M, Fettweis G. IEEE ICC (Shanghai, China, Mai 2019).'
+		},
+		
+		{
+			title: 'A Novel Modulation for IoT : PSK-LoRa',
+			link: '#',
+			body: 'Bomfin R, Chafii M, Fettweis G. IEEE VTC-sping (Kuala Lumpur, Hawaii, Malaisia, Mai 2019).'
+		},
+		{
+			title: 'Precoded-OFDM within GFDM Framework',
+			link: '#',
+			body: 'Nimr A, Chafii M, Fettweis G. IEEE VTC-sping (Kuala Lumpur, Hawaii, Malaisia, Mai 2019).'
+		},
+		{
+			title: 'Low-Complexity Iterative Receiver for Othogonal Chirp Division Multiplexing',
+			link: '#',
+			body: 'Bomfin R, Chafii M, Fettweis G. IEEE WCNC (Marrakech, Morocco, April 2019).'
+		},
+		{
+			title: 'Low-Complexity Transceiver for GFDM systems with Partially Allocated Subcarriers',
+			link: '#',
+			body: 'Nimr A, Chafii M, Fettweis G. IEEE WCNC (Marrakech, Morocco, April 2019)..'
+		},
+		{
+			title: 'Tailoring Index-Modulation for uplink IoT and M2M Networks',
+			link: '#',
+			body: 'Mancovasquez J, Chafii M, and Faouzi B. IEEE WCNC (Marrakech, Morocco, April 2019)..'
+		},
+		{
+			title: 'Online Wireless Lab Testbed',
+			link: '#',
+			body: 'Danneberg M, Bomfin, Ehsanfar S, Nimr A, Lin Z, Chafii M, Fettweis G. IEEE WCNC (Marrakech, Morocco, April 2019)..'
+		},
+		{
 			title: 'Blind Carrier Frequency Offset Estimation in Generalized Frequency Division Multiplexing',
 			link: '#',
 			body: 'Martinez A, Maximilian M, Chafii M, Fettweis G. IEEE ICNC (Honolulu, Hawaii, United States, February 2019).'
