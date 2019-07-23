@@ -24,6 +24,8 @@
 <div class="panel panel-default" ng-repeat="element in projects">
 	<div class="panel-body">
 		<div ng-bind="element.title" class="pub-title"></div>
-		<span ng-bind="element.body" class="pub-body"> </span>
+		<div class="pub-body">
+			<div ng-repeat="line in element.body" ng-bind="line"></div>
+		</div>
 	</div>
 </div>
