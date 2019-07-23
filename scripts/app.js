@@ -325,7 +325,8 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 			body: "Channel estimation for MIMO-GFDM"
 		}
 	];
-	$scope.project = [
+	
+	$scope.projects = [
 		{
 			title: "2018-2022: Chair of Excellence",
 			body: [
@@ -341,6 +342,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 			]
 		}
 	];
+	
 	$scope.interests = [
 		{
 			title: "Machine learning",
