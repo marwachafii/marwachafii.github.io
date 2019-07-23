@@ -264,7 +264,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 				"ENSEA (Ecole nationale superieure de l'Electronique et de ses Applications)",
 				"ETIS, UMR 8051",
 				"Université Paris-Seine, Université Cergy-Pontoise, ENSEA, CNRS",
-				"France"
+				"France",
 			]
 		},
 		{
@@ -323,13 +323,20 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		{
 			title: "Shahab Ehsan Far (2015-2019)",
 			body: "Channel estimation for MIMO-GFDM"
-		},
-		{
-			title: "Martin Danneberg (2015-2019)",
-			body: "Prototyping of real-time waveforms "
 		}
 	];
-
+	$scope.project = [
+		{
+			title: "2018-2022: Chair of Excellence",
+			body: " Unversity Paris-Seine",
+			"Topic: Artificial Intelligence for IoT"
+		},
+		
+		{
+			title: "AI PROCOPE 2019",
+			body: "A joint project with TU Dresden Germany"
+		}
+	];
 	$scope.interests = [
 		{
 			title: "Machine learning",
