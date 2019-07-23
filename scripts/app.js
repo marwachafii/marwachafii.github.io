@@ -328,13 +328,17 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 	$scope.project = [
 		{
 			title: "2018-2022: Chair of Excellence",
-			body: " Unversity Paris-Seine",
-			"Topic: Artificial Intelligence for IoT"
+			body: [
+				" Unversity Paris-Seine",
+				"Topic: Artificial Intelligence for IoT"
+			]
 		},
 		
 		{
 			title: "AI PROCOPE 2019",
-			body: "A joint project with TU Dresden Germany"
+			body: [
+				"A joint project with TU Dresden Germany"
+			]
 		}
 	];
 	$scope.interests = [
