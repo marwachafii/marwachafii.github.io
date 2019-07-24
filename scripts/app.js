@@ -114,120 +114,120 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.publications = [
 		{
-			title: 'Real-Time Waveform Prototyping',
+			title: '[J23] Real-Time Waveform Prototyping',
 			link: '#',
 			body: 'Danneberg D, Li Z, Nimr A, Ehsanfar S, Chafii M, Fettweis G. IEEE SPAWC (Cannes, France, July, 2019).'
 		},
 		{
-			title: 'Time-Variant Pilot- and CP-Aided Channel Estimation for GFDM',
+			title: '[J22] Time-Variant Pilot- and CP-Aided Channel Estimation for GFDM',
 			link: '#',
 			body: 'Ehsanfar S, Chafii M, Fettweis G. IEEE ICC (Shanghai, China, Mai 2019).'
 		},
 		
 		{
-			title: 'A Novel Modulation for IoT : PSK-LoRa',
+			title: '[J21] A Novel Modulation for IoT : PSK-LoRa',
 			link: '#',
 			body: 'Bomfin R, Chafii M, Fettweis G. IEEE VTC-sping (Kuala Lumpur, Hawaii, Malaisia, Mai 2019).'
 		},
 		{
-			title: 'Precoded-OFDM within GFDM Framework',
+			title: '[J20] Precoded-OFDM within GFDM Framework',
 			link: '#',
 			body: 'Nimr A, Chafii M, Fettweis G. IEEE VTC-sping (Kuala Lumpur, Hawaii, Malaisia, Mai 2019).'
 		},
 		{
-			title: 'Low-Complexity Iterative Receiver for Othogonal Chirp Division Multiplexing',
+			title: '[J19] Low-Complexity Iterative Receiver for Othogonal Chirp Division Multiplexing',
 			link: '#',
 			body: 'Bomfin R, Chafii M, Fettweis G. IEEE WCNC (Marrakech, Morocco, April 2019).'
 		},
 		{
-			title: 'Low-Complexity Transceiver for GFDM systems with Partially Allocated Subcarriers',
+			title: '[J18] Low-Complexity Transceiver for GFDM systems with Partially Allocated Subcarriers',
 			link: '#',
 			body: 'Nimr A, Chafii M, Fettweis G. IEEE WCNC (Marrakech, Morocco, April 2019)..'
 		},
 		{
-			title: 'Tailoring Index-Modulation for uplink IoT and M2M Networks',
+			title: '[J17] Tailoring Index-Modulation for uplink IoT and M2M Networks',
 			link: '#',
 			body: 'Mancovasquez J, Chafii M, and Faouzi B. IEEE WCNC (Marrakech, Morocco, April 2019)..'
 		},
 		{
-			title: 'Online Wireless Lab Testbed',
+			title: '[J16] Online Wireless Lab Testbed',
 			link: '#',
 			body: 'Danneberg M, Bomfin, Ehsanfar S, Nimr A, Lin Z, Chafii M, Fettweis G. IEEE WCNC (Marrakech, Morocco, April 2019)..'
 		},
 		{
-			title: 'Blind Carrier Frequency Offset Estimation in Generalized Frequency Division Multiplexing',
+			title: '[J15] Blind Carrier Frequency Offset Estimation in Generalized Frequency Division Multiplexing',
 			link: '#',
 			body: 'Martinez A, Maximilian M, Chafii M, Fettweis G. IEEE ICNC (Honolulu, Hawaii, United States, February 2019).'
 		},
 		{
-			title: 'Practical GFDM-based Linear Receivers',
+			title: '[J14] Practical GFDM-based Linear Receivers',
 			link: 'https://hal.archives-ouvertes.fr/hal-01968998/document',
 			body: 'Nimr A, Chafii M, Fettweis G. IEEE SCC (Rostock, Germany, February 2019).'
 		},
 		{
-			title: 'Extended GFDM Framework: OTFS and GFDM Comparison',
+			title: '[J13] Extended GFDM Framework: OTFS and GFDM Comparison',
 			link: 'https://hal.archives-ouvertes.fr/hal-01968970/document',
 			body: 'Nimr A, Chafii M, Maximilian M, Fettweis G. IEEE GLOBECOM (Abu Dhabi, UAE, December 2018).'
 		},
 		{
-			title: 'Performance Analysis of a 5G Transceiver Implementation for Remote Areas Scenarios',
+			title: '[J12] Performance Analysis of a 5G Transceiver Implementation for Remote Areas Scenarios',
 			link: '#',
 			body: 'Dias W, Gaspar D M, Mendes L, Maximilian M, Neuhaus P, Fettweis G. EuCNC (Ljubljana, Slovenia, 2018).'
 		},
 		{
-			title: 'Fourier Based Adaptive Waveform,',
+			title: '[J11] Fourier Based Adaptive Waveform,',
 			link: '#',
 			body: 'Chafii M, Palicot J,  Gribonval R, Faouzi B. ICT (Saint-Malo, France, June 2018).'
 		},
 		{
-			title: 'Enhancing Coverage in Narrow Band-IoT Using Maching Learning',
+			title: '[J10] Enhancing Coverage in Narrow Band-IoT Using Maching Learning',
 			link: '#',
 			body: 'Chafii M, Faouzi B, Palicot J. IEEE WCNC (Barcelona, Spain, 2017).'
 		},
 		{
-			title: 'SC-FDMA with Index Modulation for M2M and IoT Uplink Applications',
+			title: '[J9] SC-FDMA with Index Modulation for M2M and IoT Uplink Applications',
 			link: '#',
 			body: 'Chafii M, Faouzi B, Palicot J. IEEE WCNC (Barcelona, Spain, 2017).'
 		},
 		{
-			title: 'A Precoding-based PAPR Reduction Technique for UF-OFDM and Filtered-OFDM Modulations in 5G Systems.',
+			title: '[J8] A Precoding-based PAPR Reduction Technique for UF-OFDM and Filtered-OFDM Modulations in 5G Systems.',
 			link: 'http://ieeexplore.ieee.org/document/8011329/',
 			body: 'Benmebrouk M, Chafii M, Louet Y, and Faouzi B. URSI, GASS, 2017 Montréal, Canada.'
 		},
 		{
-			title: ' Low-PAPR condition for 5G-Candidate Waveforms',
+			title: '[J7] Low-PAPR condition for 5G-Candidate Waveforms',
 			link: 'http://ieeexplore.ieee.org/document/8105386/',
 			body: 'Benmebrouk M, Chafii M, Louet Y, and Faouzi B. European Wireless (EW) 2017, Dresden, Germany.'
 		},
 
 		{
-			title: 'Power Spectral Density Limitations of the Wavelet-OFDM System',
+			title: '[J6] Power Spectral Density Limitations of the Wavelet-OFDM System',
 			link: 'https://www.eurasip.org/Proceedings/Eusipco/Eusipco2016/papers/1570252216.pdf',
 			body: 'Chafii M, Palicot J, Gribonval R, Burr A. EUSIPCO (Budapest, Hungary, 2016).'
 		},
 		{
-			title: 'Modified Tone Reservation for PAPR Reduction in OFDM Systems',
+			title: '[J5] Modified Tone Reservation for PAPR Reduction in OFDM Systems',
 			link: 'https://www.eurasip.org/Proceedings/Eusipco/Eusipco2016/papers/1570256238.pdf',
 			body: 'L. Diallo, Chafii M, Faouzi B, Palicot J. EUSIPCO (Budapest, Hungary, 2016).'
 		},
 
 		{
-			title: 'Wavelet-OFDM vs. OFDM : Performance Comparison',
+			title: '[J4] Wavelet-OFDM vs. OFDM : Performance Comparison',
 			link: '#',
 			body: 'Chafii M, Y. Harbi, Burr A. ICT (Thessaloniki, Greece, 2016).'
 		},
 		{
-			title: 'Adaptive Tone-Reservation for better BER Performance in a Frequency Selective Fading Channel',
+			title: '[J3] Adaptive Tone-Reservation for better BER Performance in a Frequency Selective Fading Channel',
 			link: '#',
 			body: 'Chafii M, L. Diallo, Palicot J. IEEE VTC-Spring (Nanjing, China, 2016).'
 		},
 		{
-			title: 'Closed-Form Approximations of the PAPR Distribution for Multi-Carrier Modulation Systems',
+			title: '[J2] Closed-Form Approximations of the PAPR Distribution for Multi-Carrier Modulation Systems',
 			link: 'http://www.eurasip.org/Proceedings/Eusipco/Eusipco2014/HTML/papers/1569923199.pdf',
 			body: 'Chafii M, Palicot J, Gribonval R. EUSIPCO (Lisbon, Portugal, 2014).'
 		},
 		{
-			title: 'A PAPR upper bound of Generalized Waveforms for Multi-Carrier modulation systems',
+			title: '[J1] A PAPR upper bound of Generalized Waveforms for Multi-Carrier modulation systems',
 			link: 'http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6877913',
 			body: 'Chafii M, Palicot J, Gribonval R in ISCCSP, 6th International Symposium on Communications, Control and Signal Processing (Athens, 2014).'
 		}
