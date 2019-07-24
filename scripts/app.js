@@ -75,37 +75,37 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.journals = [
 		{
-			title: 'Unified Low Complexity Radix-2 Architectures for Time and Frequency-domain GFDM Modem',
+			title: '[J7] Unified Low Complexity Radix-2 Architectures for Time and Frequency-domain GFDM Modem',
 			link: 'https://hal.archives-ouvertes.fr/view/index/docid/1968962',
 			body: 'Nimr A, Chafii M, and Fettweis G. IEEE Circuits and Systems Magazine, 2018'
 		},
 		{
-			title: 'Pilot- and CP-aided Channel Estimation in MIMO Non-Orthogonal Multi-Carriers',
+			title: '[J6] Pilot- and CP-aided Channel Estimation in MIMO Non-Orthogonal Multi-Carriers',
 			link: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8573153',
 			body: 'Ehsanfar S,  Matthe M, Chafii M, and Fettweis G. IEEE Transactions on Wireless Communications, November 2018'
 		},		
 		{
-			title: 'Adaptive Wavelet Packet Modulation',
+			title: '[J5] Adaptive Wavelet Packet Modulation',
 			link: 'https://hal-centralesupelec.archives-ouvertes.fr/hal-01713821/document',
 			body: 'Chafii M,  Palicot J, Gribonval R, and Bader F. IEEE Transactions on Communications, February 2018'
 		},
 		{
-			title: 'DCT-OFDM with Index Modulation',
+			title: '[J4] DCT-OFDM with Index Modulation',
 			link: 'https://hal-centralesupelec.archives-ouvertes.fr/hal-01488900/document',
 			body: 'Chafii M,  Coon J, and Hedges D. IEEE Communications Letters, 2017'
 		},
 		{
-			title: 'Wavelet modulation : An alternative modulation with low energy consumption',
+			title: '[J3] Wavelet modulation : An alternative modulation with low energy consumption',
 			link: 'http://www.sciencedirect.com/science/article/pii/S1631070516301633',
 			body: 'Chafii M, Palicot J, Gribonval R. Comptes Rendus Physique, 18(2) :156 – 167, 2017. Energy and radiosciences'
 		},
 		{
-			title: 'A Necessary Condition for Designing Waveforms with better PAPR than OFDM',
+			title: '[J2] A Necessary Condition for Designing Waveforms with better PAPR than OFDM',
 			link: 'https://halshs.archives-ouvertes.fr/hal-01128714/document',
 			body: 'Chafii M, Palicot J, Gribonval R. Accepted for Publication in IEEE Transactions on Communications'
 		},
 		{
-			title: 'Closed-form approximations of the peak-to-average power ratio distribution for multi-carrier modulation and their applications',
+			title: '[J1] Closed-form approximations of the peak-to-average power ratio distribution for multi-carrier modulation and their applications',
 			link: 'http://asp.eurasipjournals.com/content/pdf/1687-6180-2014-121.pdf',
 			body: 'Chafii M, Palicot J, Gribonval R. EURASIP Journal on Advances in Signal Processing 2014 2014:121.'
 		},
