@@ -135,7 +135,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 			body: 'Nimr A, Chafii M, Fettweis G. IEEE VTC-sping (Kuala Lumpur, Malaisia, Mai 2019).'
 		},
 		{
-			title: '[C19] Low-Complexity Iterative Receiver for Othogonal Chirp Division Multiplexing',
+			title: '[C19] Low-Complexity Iterative Receiver for Orthogonal Chirp Division Multiplexing',
 			link: '#',
 			body: 'Bomfin R, Chafii M, Fettweis G. IEEE WCNC (Marrakech, Morocco, April 2019).'
 		},
