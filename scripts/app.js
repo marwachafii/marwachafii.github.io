@@ -114,12 +114,17 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.publications = [
 		{
-			title: '[C25] A Frame Design for MIMO UW based Systems: Overhead Analysis & Channel Estimation',
+			title: '[C26] A Frame Design for MIMO UW based Systems: Overhead Analysis & Channel Estimation',
 			link: '#',
 			body: 'Ehsanfar S, Chafii M, Fettweis G. IEEE 5G World Forum (Dresden, Germany, September 2019).'
 		},
 		{
-			title: '[C24] Performance Assessment of Orthogonal Chirp Division Multiplexing in MIMO Space Time Coding',
+			title: '[C25] Performance Assessment of Orthogonal Chirp Division Multiplexing in MIMO Space Time Coding',
+			link: '#',
+			body: 'Fadel A, Nimr A, Chiang H, Chafii M, Cousin B. IEEE PIMRC (Istanbul, Turkey, September 2019).'
+		},
+		{
+			title: '[C24] Cross-Layer Multi-User Selection in 5G Heterogeneous Networks Based on Hybrid Beamforming Optimization for Millimeter-Wave',
 			link: '#',
 			body: 'Bomfin R, Chafii M, Fettweis G. IEEE 5G World Forum (Dresden, Germany, September 2019).'
 		},
