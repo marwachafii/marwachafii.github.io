@@ -320,6 +320,10 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.students = [
 		{
+			title: "Ivo Bizon (2019-2022)",
+			body: "Machine Learning Based Source Separation for Massive IoT"
+		},
+		{
 			title: "Abdul karim Gizzini (2019-2021)",
 			body: "Machine Learning Based Channel Estimation for Vehicular Communications"
 		},
