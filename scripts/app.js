@@ -337,7 +337,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		},
 		{
 			title: "Ahmad Nimr (2015-2019)",
-			body: "Asynchronose multi-access for GFDM"
+			body: "Asynchronous multi-access for GFDM"
 		},
 		{
 			title: "Shahab Ehsan Far (2015-2019)",
@@ -348,16 +348,16 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 	
 	$scope.interests = [
 		{
-			title: "Machine learning",
-			body: "Keywords: Deep learning for PHY; Reinforcement learning; Dynamic spectrum access in IoT and Cognitive radio"
+			title: "Machine learning for Communications",
+			body: "Keywords: Deep learning for PHY; Reinforcement learning for resource allocation"
 		},
 		{
 			title: "Signal processing for communications",
-			body: "Keywords: Time-frequency and time-scale analysis;Fourier transforms;Wavelet transforms;Probabilistic models"
+			body: "Keywords: Channel estimation; Synchronization; Optimization Theory; Time-frequency and time-scale analysis"
 		},
 		{
 			title: "Digital communications",
-			body: "Keywords: Index modulation; Waveforms for 5G wireless systems; Adaptive waveforms; Peak-to-Average Power Ratio Reduction Problem"
+			body: "Keywords: Advanced waveforms for wireless communications;Index modulation; Peak-to-Average Power Ratio Reduction Problem"
 		}
 	];
 }]);
