@@ -77,12 +77,12 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		{
 			title: '[J7] Unified Low Complexity Radix-2 Architectures for Time and Frequency-domain GFDM Modem',
 			link: 'https://hal.archives-ouvertes.fr/view/index/docid/1968962',
-			body: 'Nimr A, Chafii M, and Fettweis G. IEEE Circuits and Systems Magazine, 2018'
+			body: 'Nimr A, Chafii M, and Fettweis G. IEEE Circuits and Systems Magazine, November 2018'
 		},
 		{
 			title: '[J6] Pilot- and CP-aided Channel Estimation in MIMO Non-Orthogonal Multi-Carriers',
 			link: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8573153',
-			body: 'Ehsanfar S,  Matthe M, Chafii M, and Fettweis G. IEEE Transactions on Wireless Communications, November 2018'
+			body: 'Ehsanfar S,  Matthe M, Chafii M, and Fettweis G. IEEE Transactions on Wireless Communications, December 2018'
 		},		
 		{
 			title: '[J5] Adaptive Wavelet Packet Modulation',
