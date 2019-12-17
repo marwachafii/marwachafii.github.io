@@ -75,6 +75,11 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.journals = [
 		{
+			title: '[J8] A Novel Iterative Receiver Design for CP-free Transmission under Frequency-Selective Channels',
+			link: '#',
+			body: 'Bomfin A, Chafii M, and Fettweis G. IEEE Communications Letters, To appear'
+		},
+		{
 			title: '[J7] Unified Low Complexity Radix-2 Architectures for Time and Frequency-domain GFDM Modem',
 			link: 'https://hal.archives-ouvertes.fr/view/index/docid/1968962',
 			body: 'Nimr A, Chafii M, and Fettweis G. IEEE Circuits and Systems Magazine, November 2018'
@@ -102,7 +107,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		{
 			title: '[J2] A Necessary Condition for Designing Waveforms with better PAPR than OFDM',
 			link: 'https://halshs.archives-ouvertes.fr/hal-01128714/document',
-			body: 'Chafii M, Palicot J, Gribonval R. Accepted for Publication in IEEE Transactions on Communications'
+			body: 'Chafii M, Palicot J, Gribonval R. IEEE Transactions on Communications, August 2016'
 		},
 		{
 			title: '[J1] Closed-form approximations of the peak-to-average power ratio distribution for multi-carrier modulation and their applications',
