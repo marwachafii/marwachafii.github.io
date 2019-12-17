@@ -49,3 +49,8 @@ body {
 .bio {
 	text-align: justify;
 }
+
+div.row {
+	margin-left: 0px;
+	margin-right: 0px;
+}
