@@ -76,7 +76,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 	$scope.journals = [
 		{
 			title: '[J8] A Novel Iterative Receiver Design for CP-free Transmission under Frequency-Selective Channels',
-			link: '#',
+			link: 'https://ieeexplore.ieee.org/document/8933115',
 			body: 'Bomfin A, Chafii M, and Fettweis G. IEEE Communications Letters, To appear'
 		},
 		{
@@ -120,63 +120,63 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 	$scope.publications = [
 		{
 			title: '[C26] A Frame Design for MIMO UW based Systems: Overhead Analysis & Channel Estimation',
-			link: '#',
+			link: 'http://www.jkjmanagement.com/5gwf19-4/papers/p173-ehsanfar.pdf',
 			body: 'Ehsanfar S, Chafii M, Fettweis G. IEEE 5G World Forum (Dresden, Germany, September 2019).'
 		},
 		{
 			title: '[C25] Performance Assessment of Orthogonal Chirp Division Multiplexing in MIMO Space Time Coding',
-			link: '#',
-			body: 'Fadel A, Nimr A, Chiang H, Chafii M, Cousin B. IEEE PIMRC (Istanbul, Turkey, September 2019).'
+			link: 'https://www.vodafone-chair.org/media/publications/roberto-bomfin/Performance_Assessment_of_Orthogonal_Chirp_Division_Multiplexing_in_MIMO_Space_Time_Coding.pdf',
+			body: 'Bomfin R, Chafii M, Fettweis G. IEEE 5G World Forum (Dresden, Germany, September 2019).'
 		},
 		{
 			title: '[C24] Cross-Layer Multi-User Selection in 5G Heterogeneous Networks Based on Hybrid Beamforming Optimization for Millimeter-Wave',
 			link: '#',
-			body: 'Bomfin R, Chafii M, Fettweis G. IEEE 5G World Forum (Dresden, Germany, September 2019).'
+			body: 'Fadel A, Nimr A, Chiang H, Chafii M, Cousin B. IEEE PIMRC (Istanbul, Turkey, September 2019).'
 		},
 		{
 			title: '[C23] Real-Time Waveform Prototyping',
-			link: '#',
+			link: 'https://ieeexplore.ieee.org/document/8815581',
 			body: 'Danneberg D, Li Z, Nimr A, Ehsanfar S, Chafii M, Fettweis G. IEEE SPAWC (Cannes, France, July, 2019).'
 		},
 		{
 			title: '[C22] Time-Variant Pilot- and CP-Aided Channel Estimation for GFDM',
-			link: '#',
+			link: 'https://ieeexplore.ieee.org/abstract/document/8761411',
 			body: 'Ehsanfar S, Chafii M, Fettweis G. IEEE ICC (Shanghai, China, Mai 2019).'
 		},
 		
 		{
 			title: '[C21] A Novel Modulation for IoT : PSK-LoRa',
-			link: '#',
+			link: 'https://ieeexplore.ieee.org/document/8746470',
 			body: 'Bomfin R, Chafii M, Fettweis G. IEEE VTC-sping (Kuala Lumpur, Malaisia, Mai 2019).'
 		},
 		{
 			title: '[C20] Precoded-OFDM within GFDM Framework',
-			link: '#',
+			link: 'https://ieeexplore.ieee.org/document/8746539',
 			body: 'Nimr A, Chafii M, Fettweis G. IEEE VTC-sping (Kuala Lumpur, Malaisia, Mai 2019).'
 		},
 		{
 			title: '[C19] Low-Complexity Iterative Receiver for Orthogonal Chirp Division Multiplexing',
-			link: '#',
+			link: 'https://arxiv.org/pdf/1903.08070.pdf',
 			body: 'Bomfin R, Chafii M, Fettweis G. IEEE WCNC (Marrakech, Morocco, April 2019).'
 		},
 		{
 			title: '[C18] Low-Complexity Transceiver for GFDM systems with Partially Allocated Subcarriers',
-			link: '#',
+			link: 'https://ieeexplore.ieee.org/document/8886058',
 			body: 'Nimr A, Chafii M, Fettweis G. IEEE WCNC (Marrakech, Morocco, April 2019)..'
 		},
 		{
 			title: '[C17] Tailoring Index-Modulation for uplink IoT and M2M Networks',
-			link: '#',
+			link: 'https://hal.archives-ouvertes.fr/hal-01993154/document',
 			body: 'Mancovasquez J, Chafii M, and Faouzi B. IEEE WCNC (Marrakech, Morocco, April 2019)..'
 		},
 		{
 			title: '[C16] Online Wireless Lab Testbed',
-			link: '#',
+			link: 'https://ieeexplore.ieee.org/document/8902759',
 			body: 'Danneberg M, Bomfin, Ehsanfar S, Nimr A, Lin Z, Chafii M, Fettweis G. IEEE WCNC (Marrakech, Morocco, April 2019)..'
 		},
 		{
 			title: '[C15] Blind Carrier Frequency Offset Estimation in Generalized Frequency Division Multiplexing',
-			link: '#',
+			link: 'https://hal.archives-ouvertes.fr/hal-01965514/document',
 			body: 'Martinez A, Maximilian M, Chafii M, Fettweis G. IEEE ICNC (Honolulu, Hawaii, United States, February 2019).'
 		},
 		{
