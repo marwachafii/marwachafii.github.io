@@ -119,6 +119,16 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.publications = [
 		{
+			title: '[C28] A Study on Unique-Word based Synchronization for MIMO Systems over Time-Varying Channels',
+			link: '#',
+			body: 'Ehsanfar S, Chafii M, Fettweis G. IEEE WCNC (Seoul, Korea, April 2020).'
+		},
+		{
+			title: '[C27] A Chirp-Based Frequency Synchronization Approach for Flat Fading Channels',
+			link: '#',
+			body: 'Martinez A, Kumar A, Chafii M, Fettweis G. 6G Wireless Summit (Levi, Finland, March 2020).'
+		},
+		{
 			title: '[C26] A Frame Design for MIMO UW based Systems: Overhead Analysis & Channel Estimation',
 			link: 'http://www.jkjmanagement.com/5gwf19-4/papers/p173-ehsanfar.pdf',
 			body: 'Ehsanfar S, Chafii M, Fettweis G. IEEE 5G World Forum (Dresden, Germany, September 2019).'
