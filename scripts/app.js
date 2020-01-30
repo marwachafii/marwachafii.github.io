@@ -157,12 +157,12 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		{
 			title: '[C21] A Novel Modulation for IoT : PSK-LoRa',
 			link: 'https://ieeexplore.ieee.org/document/8746470',
-			body: 'Bomfin R, Chafii M, Fettweis G. IEEE VTC-sping (Kuala Lumpur, Malaisia, Mai 2019).'
+			body: 'Bomfin R, Chafii M, Fettweis G. IEEE VTC-spring (Kuala Lumpur, Malaisia, Mai 2019).'
 		},
 		{
 			title: '[C20] Precoded-OFDM within GFDM Framework',
 			link: 'https://ieeexplore.ieee.org/document/8746539',
-			body: 'Nimr A, Chafii M, Fettweis G. IEEE VTC-sping (Kuala Lumpur, Malaisia, Mai 2019).'
+			body: 'Nimr A, Chafii M, Fettweis G. IEEE VTC-spring (Kuala Lumpur, Malaisia, Mai 2019).'
 		},
 		{
 			title: '[C19] Low-Complexity Iterative Receiver for Orthogonal Chirp Division Multiplexing',
