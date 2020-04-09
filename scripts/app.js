@@ -119,6 +119,16 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.publications = [
 		{
+			title: '[C30] A New Approach for Accurate Time Synchronization Using Chirp Signals',
+			link: '#',
+			body: 'Martinez A, Chafii M, Nimr A, Fettweis G. IEEE VTC-spring (Antwrep, Belgium, May 2020).'
+		},
+				{
+			title: '[C29]Enhancing Least Square Channel Estimation Using Deep Learning',
+			link: 'https://hal.archives-ouvertes.fr/hal-02504757/document',
+			body: 'Gizzini A, Chafii M, Nimr A, Fettweis G. IEEE VTC-spring (Antwrep, Belgium, May 2020).'
+		},
+		{
 			title: '[C28] A Study on Unique-Word based Synchronization for MIMO Systems over Time-Varying Channels',
 			link: '#',
 			body: 'Ehsanfar S, Chafii M, Fettweis G. IEEE WCNC (Seoul, Korea, April 2020).'
