@@ -77,7 +77,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		{
 			title: '[J8] A Novel Iterative Receiver Design for CP-free Transmission under Frequency-Selective Channels',
 			link: 'https://ieeexplore.ieee.org/document/8933115',
-			body: 'Bomfin A, Chafii M, and Fettweis G. IEEE Communications Letters, To appear'
+			body: 'Bomfin A, Chafii M, and Fettweis G. IEEE Communications Letters, December 2019'
 		},
 		{
 			title: '[J7] Unified Low Complexity Radix-2 Architectures for Time and Frequency-domain GFDM Modem',
@@ -97,7 +97,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		{
 			title: '[J4] DCT-OFDM with Index Modulation',
 			link: 'https://hal-centralesupelec.archives-ouvertes.fr/hal-01488900/document',
-			body: 'Chafii M,  Coon J, and Hedges D. IEEE Communications Letters, 2017'
+			body: 'Chafii M,  Coon J, and Hedges D. IEEE Communications Letters, March 2017'
 		},
 		{
 			title: '[J3] Wavelet modulation : An alternative modulation with low energy consumption',
