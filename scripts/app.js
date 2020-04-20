@@ -75,6 +75,11 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.journals = [
 		{
+			title: '[J9] Spectral and Energy Efficient Fast-OFDM with Index Modulation for Optical Wireless Systems',
+			link: '#',
+			body: 'Azim W A, Chafii M, Le Guennec Y., and Ros L. IEEE Communications Letters, to appear'
+		},
+		{
 			title: '[J8] A Novel Iterative Receiver Design for CP-free Transmission under Frequency-Selective Channels',
 			link: 'https://ieeexplore.ieee.org/document/8933115',
 			body: 'Bomfin A, Chafii M, and Fettweis G. IEEE Communications Letters, December 2019'
