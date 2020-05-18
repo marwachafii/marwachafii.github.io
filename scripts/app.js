@@ -363,19 +363,19 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 			body: "Machine Learning Based Channel Estimation for Vehicular Communications"
 		},
 		{
-			title: "Roberto Bomfin (2016-2020)",
+			title: "Roberto Bomfin (2018-2020)",
 			body: "Chirp-based Multicarrier Waveform"
 		},
 		{
-			title: "Ana-Belen Martinez (2015-2019)",
+			title: "Ana-Belen Martinez (2018-2020)",
 			body: "Synchronization for MIMO-GFDM"
 		},
 		{
-			title: "Ahmad Nimr (2015-2019)",
+			title: "Ahmad Nimr (2018-2020)",
 			body: "Asynchronous multi-access for GFDM"
 		},
 		{
-			title: "Shahab Ehsan Far (2015-2019)",
+			title: "Shahab Ehsan Far (2018-2020)",
 			body: "Channel estimation for MIMO-GFDM"
 		}
 	];
