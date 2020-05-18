@@ -75,6 +75,11 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.journals = [
 		{
+			title: '[J10] On UW-based Transmission for MIMO Multi-Carriers with Spatial Multiplexing',
+			link: '#',
+			body: 'Ehsanfar S, Chafii M, Fettweis G. IEEE Transactions in Wireless Communications, to appear'
+		},		
+		{
 			title: '[J9] Spectral and Energy Efficient Fast-OFDM with Index Modulation for Optical Wireless Systems',
 			link: '#',
 			body: 'Azim W A, Chafii M, Le Guennec Y., and Ros L. IEEE Communications Letters, to appear'
