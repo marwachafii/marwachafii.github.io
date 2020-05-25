@@ -76,7 +76,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 	$scope.journals = [
 		{
 			title: '[J10] On UW-based Transmission for MIMO Multi-Carriers with Spatial Multiplexing',
-			link: '#',
+			link: 'https://hal.archives-ouvertes.fr/view/index/docid/2617383',
 			body: 'Ehsanfar S, Chafii M, Fettweis G. IEEE Transactions in Wireless Communications, to appear'
 		},		
 		{
