@@ -129,9 +129,14 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.publications = [
 		{
+			title: '[C31] A New Approach for Enhanced Detection Using Chirp Reference Signals',
+			link: '#',
+			body: 'Martinez A, Kumar A, Chafii M, Fettweis G. IEEE VTC-fall (Victoria, Canada, October 2020).'
+		},		
+		{
 			title: '[C30] A New Approach for Accurate Time Synchronization Using Chirp Signals',
 			link: '#',
-			body: 'Martinez A, Chafii M, Nimr A, Fettweis G. IEEE VTC-spring (Antwrep, Belgium, May 2020).'
+			body: 'Martinez A, Kumar A ,Chafii M, Fettweis G. IEEE VTC-spring (Antwrep, Belgium, May 2020).'
 		},
 				{
 			title: '[C29]Enhancing Least Square Channel Estimation Using Deep Learning',
