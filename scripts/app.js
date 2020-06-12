@@ -82,7 +82,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		{
 			title: '[J10] On UW-based Transmission for MIMO Multi-Carriers with Spatial Multiplexing',
 			link: 'https://hal.archives-ouvertes.fr/view/index/docid/2617383',
-			body: 'Ehsanfar S, Chafii M, Fettweis G. IEEE Transactions in Wireless Communications, June 2020'
+			body: 'Ehsanfar S, Chafii M, Fettweis G. IEEE Transactions on Wireless Communications, June 2020'
 		},		
 		{
 			title: '[J9] Spectral and Energy Efficient Fast-OFDM with Index Modulation for Optical Wireless Systems',
