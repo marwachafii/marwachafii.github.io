@@ -75,14 +75,19 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.journals = [
 		{
+			title: '[J11] Deep Learning Based Channel Estimation Schemes for IEEE 802.11p Standard',
+			link: '#',
+			body: 'Gizzini A, Chafii M, Nimr A, Fettweis G. IEEE Access, to appear'
+		},		
+		{
 			title: '[J10] On UW-based Transmission for MIMO Multi-Carriers with Spatial Multiplexing',
 			link: 'https://hal.archives-ouvertes.fr/view/index/docid/2617383',
-			body: 'Ehsanfar S, Chafii M, Fettweis G. IEEE Transactions in Wireless Communications, to appear'
+			body: 'Ehsanfar S, Chafii M, Fettweis G. IEEE Transactions in Wireless Communications, June 2020'
 		},		
 		{
 			title: '[J9] Spectral and Energy Efficient Fast-OFDM with Index Modulation for Optical Wireless Systems',
 			link: '#',
-			body: 'Azim W A, Chafii M, Le Guennec Y., and Ros L. IEEE Communications Letters, to appear'
+			body: 'Azim W A, Chafii M, Le Guennec Y., and Ros L. IEEE Communications Letters, April 2020'
 		},
 		{
 			title: '[J8] A Novel Iterative Receiver Design for CP-free Transmission under Frequency-Selective Channels',
