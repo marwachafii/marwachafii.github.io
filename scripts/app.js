@@ -75,9 +75,14 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.journals = [
 		{
-			title: '[J12] Enhanced Optical-OFDM with Index and Dual-Mode Modulation for Optical Wireless Systems',
+			title: '[J13] Index Modulation Aided Uplink NOMA for Massive Machine Type Communications',
 			link: '#',
-			body: 'Azim W A, Le Guennec Y., Chafii M, and Ros. IEEE Access, to appear'
+			body: 'Shahab M B, Johnson S., Shirvanimoghaddam M., Chafii M, Basar E., and Dohler M. IEEE Wireless Communications Letters, August 2020'
+		},
+		{
+			title: '[J12] Enhanced Optical-OFDM with Index and Dual-Mode Modulation for Optical Wireless Systems',
+			link: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9137274',
+			body: 'Azim W A, Le Guennec Y., Chafii M, and Ros. IEEE Access, July 2020'
 		},
 		{
 			title: '[J11] Deep Learning Based Channel Estimation Schemes for IEEE 802.11p Standard',
