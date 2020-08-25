@@ -143,6 +143,12 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 	];
 
 	$scope.publications = [
+		
+		{
+			title: '[C32] In-phase and Quadrature Chirp Spread Spectrum for IoT Communications',
+			link: '#',
+			body: 'Bizon Ivo, Chafii M, Nimr A, Fettweis G. IEEE GLOBECOM (Taipei, Taiwan, December 2020).'
+		},		
 		{
 			title: '[C31] A New Approach for Enhanced Detection Using Chirp Reference Signals',
 			link: '#',
@@ -153,8 +159,8 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 			link: '#',
 			body: 'Martinez A, Kumar A ,Chafii M, Fettweis G. IEEE VTC-spring (Antwrep, Belgium, May 2020).'
 		},
-				{
-			title: '[C29]Enhancing Least Square Channel Estimation Using Deep Learning',
+		{
+			title: '[C29] Enhancing Least Square Channel Estimation Using Deep Learning',
 			link: 'https://hal.archives-ouvertes.fr/hal-02504757/document',
 			body: 'Gizzini A, Chafii M, Nimr A, Fettweis G. IEEE VTC-spring (Antwrep, Belgium, May 2020).'
 		},
