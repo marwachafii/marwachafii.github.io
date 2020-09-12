@@ -145,12 +145,12 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 	$scope.publications = [
 		
 		{
-			title: '[C34] In-phase and Quadrature Chirp Spread Spectrum for IoT Communications',
+			title: '[C33] In-phase and Quadrature Chirp Spread Spectrum for IoT Communications',
 			link: '#',
 			body: 'Bizon Ivo, Chafii M, Nimr A, Fettweis G. IEEE GLOBECOM (Taipei, Taiwan, December 2020).'
 		},
 		{
-			title: '[C33] Adaptive Channel Estimation based on DeepLearning',
+			title: '[C32] Adaptive Channel Estimation based on DeepLearning',
 			link: '#',
 			body: 'Gizzini A, Chafii M, Nimr A, Fettweis G. IEEE VTC-fall (Victoria, Canada, October 2020).'
 		},
