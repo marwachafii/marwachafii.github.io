@@ -387,7 +387,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 	$scope.students = [
 		{
 			title: "Ivo Bizon (2019-2022)",
-			body: "Machine Learning Based Source Separation for Massive IoT"
+			body: "Contributions to Internet of Things Communications: From Long Range to Location Aware Networks"
 		},
 		{
 			title: "Abdul karim Gizzini (2019-2021)",
@@ -395,19 +395,19 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		},
 		{
 			title: "Roberto Bomfin (2018-2020)",
-			body: "Chirp-based Multicarrier Waveform"
+			body: "Waveform and Frame Design for Robust MIMO Space Time Coding Wireless Communications"
 		},
 		{
 			title: "Ana-Belen Martinez (2018-2020)",
-			body: "Synchronization for MIMO-GFDM"
+			body: "Chirp-based Detection and Synchronization Techniques for Wireless Communications"
 		},
 		{
 			title: "Ahmad Nimr (2018-2020)",
-			body: "Asynchronous multi-access for GFDM"
+			body: "Unified Framework for Multicarrier and Multiple Access based on Generalized Frequency Division Multiplexing"
 		},
 		{
 			title: "Shahab Ehsan Far (2018-2020)",
-			body: "Channel estimation for MIMO-GFDM"
+			body: "Advanced Channel Estimation Techniques for MIMO Multi-Carrier Systems in Doubly-Dispersive Channels"
 		}
 	];
 	
