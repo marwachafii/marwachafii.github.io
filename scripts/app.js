@@ -77,7 +77,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		{
 			title: '[J14] Deep Learning Based Data Recovery for Localization',
 			link: '#',
-			body: 'Nijma W, Chafii M, Nimr A, Fettweis G., IEEE Access, September 2020'
+			body: 'Nijma W, Chafii M, Nimr A, Fettweis G., IEEE Access, To appear'
 		},
 		
 		{
@@ -149,6 +149,11 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 	];
 
 	$scope.publications = [
+		{
+			title: '[C34] Joint TRFI and Deep Learning for Vehicular Channel Estimation',
+			link: '#',
+			body: 'Gizzini A, Chafii M, Nimr A, Fettweis G. IEEE GLOBECOM Workshops (Taipei, Taiwan, December 2020)..'
+		},
 		
 		{
 			title: '[C33] In-phase and Quadrature Chirp Spread Spectrum for IoT Communications',
