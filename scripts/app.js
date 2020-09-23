@@ -157,7 +157,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		
 		{
 			title: '[C33] In-phase and Quadrature Chirp Spread Spectrum for IoT Communications',
-			link: '#',
+			link: 'https://arxiv.org/abs/2009.10421',
 			body: 'Bizon Ivo, Chafii M, Nimr A, Fettweis G. IEEE GLOBECOM (Taipei, Taiwan, December 2020).'
 		},
 		{
