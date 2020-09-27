@@ -76,8 +76,8 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 	$scope.journals = [
 		{
 			title: '[J14] Deep Learning Based Data Recovery for Localization',
-			link: '#',
-			body: 'Nijma W, Chafii M, Nimr A, Fettweis G., IEEE Access, To appear'
+			link: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9205227',
+			body: 'Nijma W, Chafii M, Nimr A, Fettweis G., IEEE Access, September 2020'
 		},
 		
 		{
