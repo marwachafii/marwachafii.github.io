@@ -76,7 +76,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 	$scope.journals = [
 		{
 			title: '[J15] A Robust and Low-Complexity Walsh-Hadamard Modulation for Doubly-Dispersive Channels',
-			link: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9205227',
+			link: '#',
 			body: 'Bomfin R, Nimr A, Chafii M, Fettweis G., IEEE Communications Letters, October 2020'
 		},
 		{
