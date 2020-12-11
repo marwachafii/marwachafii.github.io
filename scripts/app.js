@@ -75,6 +75,11 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.journals = [
 		{
+			title: '[J16] LACO-OFDM with Index Modulation for Optical Wireless Systems',
+			link: '#',
+			body: 'Azim W A, Le Guennec Y., Chafii M, and Ros. IEEE Wireless Communications Letters, December 2020'
+		},		
+		{
 			title: '[J15] A Robust and Low-Complexity Walsh-Hadamard Modulation for Doubly-Dispersive Channels',
 			link: '#',
 			body: 'Bomfin R, Nimr A, Chafii M, Fettweis G., IEEE Communications Letters, October 2020'
@@ -154,6 +159,11 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 	];
 
 	$scope.publications = [
+		{
+			title: '[C35] Convolutional Neural Networks based Denoising for Indoor Localization',
+			link: '#',
+			body: 'Njima W, Chafii M, Nimr A, Fettweis G. IEEE VTC-Spring (Helsinki, Finland, April 2021).'
+		},
 		{
 			title: '[C34] Joint TRFI and Deep Learning for Vehicular Channel Estimation',
 			link: '#',
