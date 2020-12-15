@@ -70,6 +70,11 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		"SERVICES": {
 			"en": "Services",
 			"fr": "Services"
+		},
+		//Navigation
+		"AWARDS": {
+			"en": "Awards and Recognitions",
+			"fr": "Awards and Recognitions"
 		}
 	};
 
@@ -78,7 +83,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 			title: '[J16] LACO-OFDM with Index Modulation for Optical Wireless Systems',
 			link: '#',
 			body: 'Azim W A, Le Guennec Y., Chafii M, and Ros. IEEE Wireless Communications Letters, December 2020'
-		},		
+		},
 		{
 			title: '[J15] A Robust and Low-Complexity Walsh-Hadamard Modulation for Doubly-Dispersive Channels',
 			link: '#',
@@ -89,7 +94,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 			link: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9205227',
 			body: 'Nijma W, Chafii M, Nimr A, Fettweis G., IEEE Access, September 2020'
 		},
-		
+
 		{
 			title: '[J13] Index Modulation Aided Uplink NOMA for Massive Machine Type Communications',
 			link: 'https://ieeexplore.ieee.org/document/9165182',
@@ -104,12 +109,12 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 			title: '[J11] Deep Learning Based Channel Estimation Schemes for IEEE 802.11p Standard',
 			link: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9120030',
 			body: 'Gizzini A, Chafii M, Nimr A, Fettweis G. IEEE Access, June 2020'
-		},		
+		},
 		{
 			title: '[J10] On UW-based Transmission for MIMO Multi-Carriers with Spatial Multiplexing',
 			link: 'https://hal.archives-ouvertes.fr/view/index/docid/2617383',
 			body: 'Ehsanfar S, Chafii M, Fettweis G. IEEE Transactions on Wireless Communications, June 2020'
-		},		
+		},
 		{
 			title: '[J9] Spectral and Energy Efficient Fast-OFDM with Index Modulation for Optical Wireless Systems',
 			link: '#',
@@ -129,7 +134,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 			title: '[J6] Pilot- and CP-aided Channel Estimation in MIMO Non-Orthogonal Multi-Carriers',
 			link: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8573153',
 			body: 'Ehsanfar S,  Matthe M, Chafii M, and Fettweis G. IEEE Transactions on Wireless Communications, December 2018'
-		},		
+		},
 		{
 			title: '[J5] Adaptive Wavelet Packet Modulation',
 			link: 'https://hal-centralesupelec.archives-ouvertes.fr/hal-01713821/document',
@@ -169,7 +174,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 			link: '#',
 			body: 'Gizzini A, Chafii M, Nimr A, Fettweis G. IEEE GLOBECOM Workshops (Taipei, Taiwan, December 2020)..'
 		},
-		
+
 		{
 			title: '[C33] In-phase and Quadrature Chirp Spread Spectrum for IoT Communications',
 			link: 'https://arxiv.org/abs/2009.10421',
@@ -184,7 +189,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 			title: '[C31] A New Approach for Enhanced Detection Using Chirp Reference Signals',
 			link: '#',
 			body: 'Martinez A, Kumar A, Chafii M, Fettweis G. IEEE VTC-fall (Victoria, Canada, October 2020).'
-		},		
+		},
 		{
 			title: '[C30] A New Approach for Accurate Time Synchronization Using Chirp Signals',
 			link: '#',
@@ -230,7 +235,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 			link: 'https://ieeexplore.ieee.org/abstract/document/8761411',
 			body: 'Ehsanfar S, Chafii M, Fettweis G. IEEE ICC (Shanghai, China, Mai 2019).'
 		},
-		
+
 		{
 			title: '[C21] A Novel Modulation for IoT : PSK-LoRa',
 			link: 'https://ieeexplore.ieee.org/document/8746470',
@@ -436,8 +441,19 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 			body: "Advanced Channel Estimation Techniques for MIMO Multi-Carrier Systems in Doubly-Dispersive Channels"
 		}
 	];
-	
-	
+
+	$scope.postdocs = [
+		{
+			"title": "Wafa Njima",
+			"body": "Machine learning-based Indoor Localization"
+		},
+		{
+			"title": "Muralikrishnan Srinivasan",
+			"body": "Context-awareness  for B5G"
+		}
+	]
+
+
 	$scope.interests = [
 		{
 			title: "Machine learning for Communications",
@@ -452,4 +468,200 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 			body: "Keywords: Advanced waveforms for wireless communications;Index modulation; Peak-to-Average Power Ratio Reduction Problem"
 		}
 	];
+
+	$scope.administrative = [
+		{
+			title: "Vice-chair of the IEEE ComSoc Machine Learning for Communications Emerging Technologies Initiative",
+			body: "2018 – present"
+		},
+		{
+			title: "Research projects leader at Women in AI organization",
+			body: "2018 - present"
+		},
+		{
+			title: "Member of the governing body of ENSEA",
+			body: "2020 - present"
+		},
+		{
+			title: "President of the association of PhDs and Ph.D. students of IETR",
+			body: "2014-2016"
+		},
+		{
+			title: "Representative of IETR doctoral students on the laboratory council",
+			body: "2016"
+		}
+	]
+
+	$scope.events = [
+		{
+			"title": "Co-chair of the \"Training school on Machine learning for communications\"",
+			"body": "September 2021, Berlin, Germany"
+		},
+		{
+			"title": "Co-chair of the special session \"Selected topics on 6G Security\" ISWCS",
+			"body": "September 2021, Berlin, Germany"
+		},
+		{
+			"title": "Co-chair of the \"Training school on machine learning for Communications\"",
+			"body": "April 2021, Tomsk, Russia"
+		},
+		{
+			"title": "Co-chair of the European Conference on Artificial Intelligence (ECAI)",
+			"body": "September 2020, Organization of Women in AI Meeting"
+		},
+		{
+			"title": "Co-chair of the special session \"Machine Learning for Communications\" IEEE SPAWC",
+			"body": "2020, Atlanta"
+		},
+		{
+			"title": "Co-chair of IEEE Globecom 2019 Workshop \"Machine learning for Wireless Communications\"",
+			"body": "2019, Hawaii"
+		},
+		{
+			"title": "Co-chair of the \"Training school on Machine learning for Communications\"",
+			"body": "September 2019, Paris"
+		},
+		{
+			"title": "Invited speaker at the French conference GRETSI",
+			"body": "2019, Lille, France"
+		},
+		{
+			"title": "Keynote on \"Opportunities of Deep Learning in Wireless Physical Layer\",  IEEE 5G Summit",
+			"body": "2018, Dresden, Germany"
+		},
+		{
+			"title": "Tutorial on \"Advanced waveforms for 5G\"  5G Lab Summer School",
+			"body": "2018"
+		},
+		{
+			"title": "Session chair of Workshop ML-WiC at IEEE Globecom",
+			"body": "2019"
+		},
+		{
+			"title": "Session chair of SPC-I1 Interactive Session 1 at IEEE Globecom",
+			"body": "2018"
+		},
+		{
+			"title": "Session chair of the wireless workshop at IEEE 5G Summit",
+			"body": "2018, Dresden"
+		},
+		{
+			"title": "Session chair of PHY02 (Multicarrier Techniques), IEEE PIMRC",
+			"body": "2018"
+		}
+	]
+
+	$scope.editorial = [
+		{
+			"title": "Associate Editor for IEEE Communications Letters (2019-present) :  Machine learning for communications Track",
+			"body": ""
+		},
+		{
+			"title": "Guest editor at Frontiers in Communications and Networks",
+			"body": ""
+		}
+	]
+
+	$scope.tpc = [
+		{
+			"title": "IEEE ICC 2019,  2020, 2021",
+			"body": ""
+		},
+		{
+			"title": "IEEE Globecom 2019,  2020, 2021",
+			"body": ""
+		},
+		{
+			"title": "IEEE SPAWC 2020",
+			"body": ""
+		},
+		{
+			"title": "IEEE ICASSP 2020",
+			"body": ""
+		},
+		{
+			"title": "IEEE VTC-spring 2020",
+			"body": ""
+		},
+		{
+			"title": "WiOpt 2019",
+			"body": ""
+		},
+		{
+			"title": "I4CT 2018",
+			"body": ""
+		},
+		{
+			"title": "ICT 2018",
+			"body": ""
+		},
+		{
+			"title": "ISWCS 2018, 2017",
+			"body": ""
+		}
+	]
+
+	$scope.awards = [
+		{
+			title: "IEEE Communications Letters Best Editor Award",
+			body: [
+				"2020"
+			]
+		},
+		{
+			title: "One of N2Women's top 10 Rising Stars in Computer Networking and Communications",
+			body: [
+				"2020"
+			]
+		},
+		{
+			title: "PEDR Bonus of doctoral supervision and research (2019-2023)",
+			body: [
+				"The French National Council of Universities (CNU 61)",
+			]
+		},
+		{
+			title: "Chair of Excellence on Artificial Intelligence by CY Initiative of Excellence",
+			body: [
+				"2018-2022",
+			]
+		},
+		{
+			title: "Bonus of scientific excellence (2018 - 2022)",
+			body: [
+				"CY Initiative of Excellence",
+			]
+		},
+		{
+			title: "Prize of the Best Ph.D. in France in the fields: Signal, Image & Vision",
+			body: [
+				"Awarded jointly by the French Club EEA, the GdR ISIS et GRETSI",
+				"2018"
+			]
+		},
+		{
+			title: "Best score at « Machine Learning Challenge », the training school « Machine & Deep Learning Techniques for (Beyond) 5G Wireless Communications Systems »",
+			body: [
+				"April 2019, Barcelona, Spain",
+			]
+		},
+		{
+			title: "Best paper award at URSI Conference",
+			body: [
+				"Rennes, 2016",
+			]
+		},
+		{
+			title: "One of the 300 talents of L'Oréal-UNESCO For Women in Science",
+			body: [
+				"2016",
+			]
+		},
+		{
+			title: "“Coup de Coeur” Award for the best innovation project - Doctoriales de Bretagne",
+			body: [
+				"2015",
+			]
+		},
+	]
 }]);

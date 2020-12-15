@@ -1,0 +1,8 @@
+<div class="panel panel-default publication" ng-repeat="element in awards">
+    <div class="panel-body">
+        <div ng-bind="element.title" class="pub-title"></div>
+        <span class="pub-body">
+            <div ng-repeat="line in element.body" ng-bind="line"></div>
+        </span>
+    </div>
+</div>
