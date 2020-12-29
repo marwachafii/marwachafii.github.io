@@ -80,6 +80,11 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.journals = [
 		{
+			title: '[J17] Filtered Asymmetrically Clipped Optical-OFDM with Index Modulation for Optical Wireless Systems',
+			link: '#',
+			body: 'Azim W A, Le Guennec Y., Chafii M, and Ros. IEEE Communications Letters, December 2020'
+		},		
+		{
 			title: '[J16] LACO-OFDM with Index Modulation for Optical Wireless Systems',
 			link: '#',
 			body: 'Azim W A, Le Guennec Y., Chafii M, and Ros. IEEE Wireless Communications Letters, December 2020'
