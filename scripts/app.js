@@ -492,14 +492,14 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 			body: "2014-2016"
 		},
 		{
-			title: "Representative of IETR doctoral students on the laboratory council",
+			title: "Representative of IETR doctoral students at the laboratory council",
 			body: "2016"
 		}
 	]
 
 	$scope.events = [
 		{
-			"title": "Co-chair of the \"Training school on Machine learning for communications\"",
+			"title": "Chair of the \"Training school on Machine learning for communications\"",
 			"body": "September 2021, Berlin, Germany"
 		},
 		{
@@ -523,7 +523,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 			"body": "2019, Hawaii"
 		},
 		{
-			"title": "Co-chair of the \"Training school on Machine learning for Communications\"",
+			"title": "Chair of the \"Training school on Machine learning for Communications\"",
 			"body": "September 2019, Paris"
 		},
 		{
