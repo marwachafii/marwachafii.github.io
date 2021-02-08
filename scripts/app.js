@@ -170,6 +170,17 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.publications = [
 		{
+			title: '[C37] Sequence Design for Frame Detection Based on Autocorrelation',
+			link: '#',
+			body: 'Martinez A, Kumar A, Chafii M, Fettweis G.  IEEE VTC-Spring (Helsinki, Finland, April 2021).'
+		},
+		},
+		{
+			title: '[C36] OFDM with Index Modulation in Orbital Angular Momentum Multiplexed Free Space Optical Links',
+			link: '#',
+			body: 'Amhoud E, Chafii M, Nimr A, Fettweis G. IEEE VTC-Spring (Helsinki, Finland, April 2021).'
+		},
+		{
 			title: '[C35] Convolutional Neural Networks based Denoising for Indoor Localization',
 			link: '#',
 			body: 'Njima W, Chafii M, Nimr A, Fettweis G. IEEE VTC-Spring (Helsinki, Finland, April 2021).'
