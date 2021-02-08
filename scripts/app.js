@@ -174,7 +174,6 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 			link: '#',
 			body: 'Martinez A, Kumar A, Chafii M, Fettweis G.  IEEE VTC-Spring (Helsinki, Finland, April 2021).'
 		},
-		},
 		{
 			title: '[C36] OFDM with Index Modulation in Orbital Angular Momentum Multiplexed Free Space Optical Links',
 			link: '#',
