@@ -80,7 +80,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.journals = [
 		{
-			title: '[J18] A Robust Transceiver Design for Doubly-Dispersive Channels.',
+			title: '[J18] A Robust Baseband Transceiver Design for Doubly-Dispersive Channels.',
 			link: '#',
 			body: 'Bomfin R, Chafii M, Nimr A, Fettweis G. IEEE Transactions on Wireless Communications, February 2021'
 		},		
