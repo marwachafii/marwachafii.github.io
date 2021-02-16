@@ -469,7 +469,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		},
 		{
 			"title": "Muralikrishnan Srinivasan (2021-2022)",
-			"body": "Context-awareness  for B5G"
+			"body": "Channel Charting"
 		}
 	]
 
