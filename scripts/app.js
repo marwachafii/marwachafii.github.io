@@ -80,6 +80,11 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.journals = [
 		{
+			title: '[J18] A Robust Transceiver Design for Doubly-Dispersive Channels.',
+			link: '#',
+			body: 'Bomfin R, Chafii M, Nimr A, Fettweis G. IEEE Transactions on Wireless Communications, February 2021'
+		},		
+		{
 			title: '[J17] Filtered Asymmetrically Clipped Optical-OFDM with Index Modulation for Optical Wireless Systems',
 			link: '#',
 			body: 'Azim W A, Le Guennec Y., Chafii M, and Ros. IEEE Communications Letters, December 2020'
