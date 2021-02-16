@@ -464,11 +464,11 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.postdocs = [
 		{
-			"title": "Wafa Njima",
+			"title": "Wafa Njima (2020-2021)",
 			"body": "Machine learning-based Indoor Localization"
 		},
 		{
-			"title": "Muralikrishnan Srinivasan",
+			"title": "Muralikrishnan Srinivasan (2021-2022)",
 			"body": "Context-awareness  for B5G"
 		}
 	]
