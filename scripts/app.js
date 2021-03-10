@@ -81,7 +81,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 	$scope.journals = [
 		{
 			title: '[J18] A Robust Baseband Transceiver Design for Doubly-Dispersive Channels.',
-			link: '#',
+			link: 'https://hal.archives-ouvertes.fr/hal-03161973/document',
 			body: 'Bomfin R, Chafii M, Nimr A, Fettweis G. IEEE Transactions on Wireless Communications, February 2021'
 		},		
 		{
@@ -96,7 +96,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		},
 		{
 			title: '[J15] A Robust and Low-Complexity Walsh-Hadamard Modulation for Doubly-Dispersive Channels',
-			link: '#',
+			link: 'https://hal.archives-ouvertes.fr/hal-03146370/document',
 			body: 'Bomfin R, Nimr A, Chafii M, Fettweis G., IEEE Communications Letters, October 2020'
 		},
 		{
