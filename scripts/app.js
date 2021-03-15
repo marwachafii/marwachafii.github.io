@@ -523,6 +523,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		},
 		{
 			"title": "Co-chair of the \"Training school on machine learning for Communications\"",
+			"link": 'http://msit.tpu.ru/ieee/',
 			"body": "April 2021, Tomsk, Russia"
 		},
 		{
