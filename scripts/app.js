@@ -175,6 +175,11 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.publications = [
 		{
+			title: '[C38] Channel Estimation for MIMO Space Time Coded OTFS under Doubly Selective Channels',
+			link: '#',
+			body: 'Bomfin R, Chafii M, Nmr A, Fettweis G. IEEE ICC 2020 Workshops, Montreal, Canada.'
+		},		
+		{
 			title: '[C37] Sequence Design for Frame Detection Based on Autocorrelation',
 			link: '#',
 			body: 'Martinez A, Kumar A, Chafii M, Fettweis G.  IEEE VTC-Spring (Helsinki, Finland, April 2021).'
