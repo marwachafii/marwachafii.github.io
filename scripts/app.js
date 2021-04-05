@@ -661,7 +661,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 			]
 		},
 		{
-			title: "PEDR Bonus of doctoral supervision and research (2019-2023)",
+			title: "PEDR premium for doctoral supervision and research (2019-2023)",
 			body: [
 				"The French National Council of Universities (CNU 61)",
 			]
@@ -673,7 +673,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 			]
 		},
 		{
-			title: "Bonus of scientific excellence (2018 - 2022)",
+			title: "Premium of scientific excellence (2018 - 2022)",
 			body: [
 				"CY Initiative of Excellence",
 			]
