@@ -1,5 +1,8 @@
 <div class="panel panel-default publication" ng-repeat="element in awards">
     <div class="panel-body">
+        <a ng-if="element.link" type="button" class="close glyphicon glyphicon-link" data-dismiss="alert" ng-href="{{element.link}}" target="_blank">
+		    <span aria-hidden="true"></span><span class="sr-only">link</span>
+        </a>
         <div ng-bind="element.title" class="pub-title"></div>
         <span class="pub-body">
             <div ng-repeat="line in element.body" ng-bind="line"></div>
