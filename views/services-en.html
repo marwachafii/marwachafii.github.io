@@ -2,7 +2,7 @@
 
 <div class="panel panel-default" ng-repeat="element in administrative">
 	<div class="panel-body">
-		<a type="button" class="close glyphicon glyphicon-link" data-dismiss="alert" ng-href="{{element.link}}" target="_blank">
+		<a ng-if="element.link" type="button" class="close glyphicon glyphicon-link" data-dismiss="alert" ng-href="{{element.link}}" target="_blank">
 			<span aria-hidden="true"></span><span class="sr-only">link</span>
 		</a>
 		<div ng-bind="element.title" class="pub-title"></div>
@@ -16,7 +16,7 @@
 
 <div class="panel panel-default" ng-repeat="element in events">
 	<div class="panel-body">
-		<a type="button" class="close glyphicon glyphicon-link" data-dismiss="alert" ng-href="{{element.link}}" target="_blank">
+		<a ng-if="element.link" type="button" class="close glyphicon glyphicon-link" data-dismiss="alert" ng-href="{{element.link}}" target="_blank">
 			<span aria-hidden="true"></span><span class="sr-only">link</span>
 		</a>
 	<div ng-bind="element.title" class="pub-title"></div>
@@ -30,7 +30,7 @@
 
 <div class="panel panel-default" ng-repeat="element in editorial">
 	<div class="panel-body">
-		<a type="button" class="close glyphicon glyphicon-link" data-dismiss="alert" ng-href="{{element.link}}" target="_blank">
+		<a ng-if="element.link" type="button" class="close glyphicon glyphicon-link" data-dismiss="alert" ng-href="{{element.link}}" target="_blank">
 			<span aria-hidden="true"></span><span class="sr-only">link</span>
 		</a>
 		<div ng-bind="element.title" class="pub-title"></div>
@@ -43,7 +43,7 @@
 
 <div class="panel panel-default" ng-repeat="element in tpc">
 	<div class="panel-body">
-		<a type="button" class="close glyphicon glyphicon-link" data-dismiss="alert" ng-href="{{element.link}}" target="_blank">
+		<a ng-if="element.link" type="button" class="close glyphicon glyphicon-link" data-dismiss="alert" ng-href="{{element.link}}" target="_blank">
 			<span aria-hidden="true"></span><span class="sr-only">link</span>
 		</a>
 		<div ng-bind="element.title" class="pub-title"></div>
