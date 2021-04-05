@@ -483,6 +483,21 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 			body: "2018 - present"
 		},
 		{
+			title: "Co-chair of the Gender Committee of the AI4EU Community",
+			link: "https://www.ai4eu.eu/gender-diversity-ai",
+			body: "2019 - present"
+		},	
+		{
+			title: "Research Representative of the partnership between ENSEA, France and Barkhausen Institute, Germany",
+			link: "https://www.barkhauseninstitut.org/en/about-us/partners",
+			body: "2021 - present"
+		},
+		{
+			title: "Coordinator of the partnership between ENSEA, France and Inatel, Brazil",
+			link: "https://inatel.br/home/",
+			body: "2019 - present"
+		},		
+		{
 			title: "Member of the governing body of ENSEA",
 			body: "2020 - present"
 		},
@@ -498,33 +513,53 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.events = [
 		{
-			"title": "Chair of the \"Training school on Machine learning for communications\"",
-			"body": "Planned on September 2021, Berlin, Germany"
+			"title": "Co-chair of the IEEE ComSoc Training School on Machine Learning for Communications",
+			"body": "Planned on January 2022, Abu Dhabi, UAE (Chair: Taed Shubair)"
+		},
+		{
+			"title": "Co-chair of the IEEE WCNC Track: Machine Learning and Optimization for Wireless Systems",
+			"body": "Planned on 2022, Austin, USA (Chair: Deniz Gunduz)"
+		},
+		{
+			"title": "Invited talk on Women in AI in the TeamUp5G Workshop on Ethics and Inclusiveness for Telecommunications Engineers",
+			'link': "https://teamup5g.webs.tsc.uc3m.es/events/teamup5g-workshop-on-ethics-and-inclusiveness-for-telecommunications-engineers/",
+			"body": "Online, March 2021 (Chair: Ana Garcia Armada)"
+		},
+		{
+			"title": "Co-chair of the IEEE SPAWC 2021 Special Session: Machine Learning for Green and Sustainable Communications Beyond 5G",
+			"body": "Lucca, Italy (Chair: Himal Suraweera))"
+		},		
+		{
+			"title": "Chair of the \"Training school on Machine learning for communications\",
+			"body": "Planned on September 2021, Berlin, Germany, (Co-chair: Slawomir Stanszak)"
 		},
 		{
 			"title": "Co-chair of the special session \"Selected topics on 6G Security\" ISWCS",
-			"body": "Planned on September 2021, Berlin, Germany"
+			"body": "Planned on September 2021, Berlin, Germany, (Chair: Arsenia Chorti)"
 		},
 		{
 			"title": "Co-chair of the \"Training school on machine learning for Communications\"",
 			"link": "http://msit.tpu.ru/ieee/",
-			"body": "March 2021, Tomsk, Russia, Virtual"
+			"body": "March 2021, Tomsk, Russia, Virtual, (Chair: Dush Nalin Jayakody)"
 		},
 		{
 			"title": "Co-chair of the European Conference on Artificial Intelligence (ECAI)",
 			"link": "https://digital.ecai2020.eu/women-in-ai-time/",
-			"body": "September 2020, Organization of Women in AI Meeting"
+			"body": "September 2020, Organization of Women in AI Meeting, (Chair: Hanan Salam)"
 		},
 		{
-			"title": "Co-chair of the special session \"Machine Learning for Communications\" IEEE SPAWC",
-			"body": "2020, Atlanta"
+			"title": "Chair of the special session \"Machine Learning for Communications\" IEEE SPAWC",
+			"link": "https://spawc2020.netlify.app/technical-program.html#S1569584614"
+			"body": "2020, Atlanta, USA, (Co-chairs: Jakob Hoydis and Osvaldo Simeone) "
 		},
 		{
-			"title": "Co-chair of IEEE Globecom 2019 Workshop \"Machine learning for Wireless Communications\"",
-			"body": "2019, Hawaii"
+			"title": "TPC Chair of IEEE Globecom 2019 Workshop \"Machine learning for Wireless Communications\",
+			"link": "https://gcwkshp2019mlwic.wixsite.com/mlwic"
+			"body": "2019, Hawaii, USA, (Chair: Elisabeth de Carvalho)"
 		},
 		{
-			"title": "Chair of the \"Training school on Machine learning for Communications\"",
+			"title": "Chair of the IEEE ComSoc \"Training school on Machine learning for Communications\"",
+			"link": "https://sites.google.com/view/mlc-training-school/"
 			"body": "September 2019, Paris"
 		},
 		{
@@ -533,11 +568,13 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		},
 		{
 			"title": "Keynote on \"Opportunities of Deep Learning in Wireless Physical Layer\",  IEEE 5G Summit",
+			"link": "https://twitter.com/5g_lab/status/1044566789290676224?lang=en"
 			"body": "2018, Dresden, Germany"
 		},
 		{
 			"title": "Tutorial on \"Advanced waveforms for 5G\"  5G Lab Summer School",
-			"body": "2018"
+			"link": "https://twitter.com/comnets_tud/status/1043059799208943617"
+			"body": "2018, Dresden, Germany"
 		},
 		{
 			"title": "Session chair of Workshop ML-WiC at IEEE Globecom",
@@ -559,12 +596,14 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.editorial = [
 		{
-			"title": "Associate Editor for IEEE Communications Letters (2019-present) :  Machine learning for communications Track",
-			"body": ""
+			"title": "Associate Editor for IEEE Communications Letters :  Machine learning for communications Track",
+			"link": "https://www.comsoc.org/publications/journals/ieee-comml/ieee-communications-letters-editorial-board",
+			"body": "2019-present"
 		},
 		{
 			"title": "Guest editor at Frontiers in Communications and Networks",
-			"body": ""
+			"link" : "https://www.frontiersin.org/research-topics/17035/index-modulation-for-6g-communications"
+			"body": "2020-present"
 		}
 	]
 
