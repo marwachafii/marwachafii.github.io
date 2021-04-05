@@ -687,7 +687,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 			]
 		},
 		{
-			title: "Best score at « Machine Learning Challenge », the training school « Machine & Deep Learning Techniques for (Beyond) 5G Wireless Communications Systems »",
+			title: "Winning forst place in the « Machine Learning Challenge », at the training school « Machine & Deep Learning Techniques for (Beyond) 5G Wireless Communications Systems »",
 			body: [
 				"April 2019, Barcelona, Spain",
 			]
