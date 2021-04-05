@@ -401,7 +401,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 			title: "2013-2016: PhD",
 			body: [
 				"IETR, CentraleSupélec, France ",
-				"Topic : “Study of a New Waveform for Multi-Carrier Systems with low Peak-to-Average Power Ratio (PAPR)”",
+				"Topic : Study of a New Waveform for Multi-Carrier Systems with low Peak-to-Average Power Ratio (PAPR)",
 				'July-August 2016: Resarch visit at Oxford university, UK.',
 				'July-August 2015: Resarch visit at Yokohama National University, Japan.',
 				'June-July 2015: Research visit at the University of York, United Kingdom.',
@@ -497,19 +497,20 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 	$scope.events = [
 		{
 			"title": "Chair of the \"Training school on Machine learning for communications\"",
-			"body": "September 2021, Berlin, Germany"
+			"body": "Planned on September 2021, Berlin, Germany"
 		},
 		{
 			"title": "Co-chair of the special session \"Selected topics on 6G Security\" ISWCS",
-			"body": "September 2021, Berlin, Germany"
+			"body": "Planned on September 2021, Berlin, Germany"
 		},
 		{
 			"title": "Co-chair of the \"Training school on machine learning for Communications\"",
 			"link": "http://msit.tpu.ru/ieee/",
-			"body": "April 2021, Tomsk, Russia"
+			"body": "March 2021, Tomsk, Russia, Virtual"
 		},
 		{
 			"title": "Co-chair of the European Conference on Artificial Intelligence (ECAI)",
+			"link": "https://digital.ecai2020.eu/women-in-ai-time/",
 			"body": "September 2020, Organization of Women in AI Meeting"
 		},
 		{
