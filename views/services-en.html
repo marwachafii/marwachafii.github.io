@@ -2,9 +2,12 @@
 
 <div class="panel panel-default" ng-repeat="element in administrative">
 	<div class="panel-body">
+		<a type="button" class="close glyphicon glyphicon-link" data-dismiss="alert" ng-href="{{element.link}}" target="_blank">
+			<span aria-hidden="true"></span><span class="sr-only">link</span>
+		</a>
 		<div ng-bind="element.title" class="pub-title"></div>
-		<span ng-bind="element.body" class="pub-body"> </span>
-	</div>
+		<span ng-bind="element.body" class="pub-body"></span>			
+  	</div>
 </div>
 
 <br>
