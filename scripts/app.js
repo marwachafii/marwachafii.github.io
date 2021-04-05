@@ -474,10 +474,12 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 	$scope.administrative = [
 		{
 			title: "Vice-chair of the IEEE ComSoc Machine Learning for Communications Emerging Technologies Initiative",
+			link: "https://mlc.committees.comsoc.org/officers-2/",
 			body: "2018 – present"
 		},
 		{
 			title: "Research projects leader at Women in AI organization",
+			link: "https://www.womeninai.co/",
 			body: "2018 - present"
 		},
 		{
@@ -639,6 +641,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		},
 		{
 			title: "Prize of the Best Ph.D. in France in the fields: Signal, Image & Vision",
+			link: "http://www.gretsi.fr/prix-de-these.php",
 			body: [
 				"Awarded jointly by the French Club EEA, the GdR ISIS et GRETSI",
 				"2018"
