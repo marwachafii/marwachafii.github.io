@@ -553,7 +553,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 			"body": "2020, Atlanta, USA, (Co-chairs: Jakob Hoydis and Osvaldo Simeone) "
 		},
 		{
-			"title": "TPC Chair of IEEE Globecom 2019 Workshop \"Machine learning for Wireless Communications\",
+			"title": "TPC Chair of IEEE Globecom 2019 Workshop \"Machine learning for Wireless Communications\"",
 			"link": "https://gcwkshp2019mlwic.wixsite.com/mlwic"
 			"body": "2019, Hawaii, USA, (Chair: Elisabeth de Carvalho)"
 		},
