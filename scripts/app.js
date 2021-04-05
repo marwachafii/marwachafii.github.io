@@ -86,10 +86,12 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		},		
 		{
 			title: '[J17] Filtered Asymmetrically Clipped Optical-OFDM with Index Modulation for Optical Wireless Systems',
+			link: 'https://hal.archives-ouvertes.fr/hal-03097509/document',
 			body: 'Azim W A, Le Guennec Y., Chafii M, and Ros. IEEE Communications Letters, December 2020'
 		},		
 		{
 			title: '[J16] LACO-OFDM with Index Modulation for Optical Wireless Systems',
+			link: 'https://hal.archives-ouvertes.fr/hal-03082081/document',
 			body: 'Azim W A, Le Guennec Y., Chafii M, and Ros. IEEE Wireless Communications Letters, December 2020'
 		},
 		{
@@ -125,11 +127,12 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		},
 		{
 			title: '[J9] Spectral and Energy Efficient Fast-OFDM with Index Modulation for Optical Wireless Systems',
+			link: 'https://hal.archives-ouvertes.fr/hal-02869457/document',
 			body: 'Azim W A, Chafii M, Le Guennec Y., and Ros L. IEEE Communications Letters, April 2020'
 		},
 		{
 			title: '[J8] A Novel Iterative Receiver Design for CP-free Transmission under Frequency-Selective Channels',
-			link: 'https://ieeexplore.ieee.org/document/8933115',
+			link: 'https://hal.archives-ouvertes.fr/hal-02538883/file/OCDM.pdf',
 			body: 'Bomfin A, Chafii M, and Fettweis G. IEEE Communications Letters, December 2019'
 		},
 		{
@@ -173,6 +176,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 	$scope.publications = [
 		{
 			title: '[C38] Channel Estimation for MIMO Space Time Coded OTFS under Doubly Selective Channels',
+			link:'https://arxiv.org/pdf/2104.01023.pdf',
 			body: 'Bomfin R, Chafii M, Nmr A, Fettweis G. IEEE ICC 2020 Workshops, Montreal, Canada.'
 		},		
 		{
