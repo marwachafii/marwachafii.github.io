@@ -530,7 +530,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 			"body": "Lucca, Italy (Chair: Himal Suraweera))"
 		},		
 		{
-			"title": "Chair of the \"Training school on Machine learning for communications\",
+			"title": "Chair of the \"Training school on Machine learning for communications\"",
 			"body": "Planned on September 2021, Berlin, Germany, (Co-chair: Slawomir Stanszak)"
 		},
 		{
