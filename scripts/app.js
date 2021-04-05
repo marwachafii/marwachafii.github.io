@@ -614,6 +614,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		},
 		{
 			title: "One of N2Women's top 10 Rising Stars in Computer Networking and Communications",
+			link: "https://n2women.comsoc.org/awards/rising-stars/2020-rising-stars-in-computer-networking-and-communications/",
 			body: [
 				"2020"
 			]
