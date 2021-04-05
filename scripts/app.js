@@ -86,12 +86,10 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		},		
 		{
 			title: '[J17] Filtered Asymmetrically Clipped Optical-OFDM with Index Modulation for Optical Wireless Systems',
-			link: '#',
 			body: 'Azim W A, Le Guennec Y., Chafii M, and Ros. IEEE Communications Letters, December 2020'
 		},		
 		{
 			title: '[J16] LACO-OFDM with Index Modulation for Optical Wireless Systems',
-			link: '#',
 			body: 'Azim W A, Le Guennec Y., Chafii M, and Ros. IEEE Wireless Communications Letters, December 2020'
 		},
 		{
@@ -127,7 +125,6 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		},
 		{
 			title: '[J9] Spectral and Energy Efficient Fast-OFDM with Index Modulation for Optical Wireless Systems',
-			link: '#',
 			body: 'Azim W A, Chafii M, Le Guennec Y., and Ros L. IEEE Communications Letters, April 2020'
 		},
 		{
@@ -176,27 +173,22 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 	$scope.publications = [
 		{
 			title: '[C38] Channel Estimation for MIMO Space Time Coded OTFS under Doubly Selective Channels',
-			link: '#',
 			body: 'Bomfin R, Chafii M, Nmr A, Fettweis G. IEEE ICC 2020 Workshops, Montreal, Canada.'
 		},		
 		{
 			title: '[C37] Sequence Design for Frame Detection Based on Autocorrelation',
-			link: '#',
 			body: 'Martinez A, Kumar A, Chafii M, Fettweis G.  IEEE VTC-Spring (Helsinki, Finland, April 2021).'
 		},
 		{
 			title: '[C36] OFDM with Index Modulation in Orbital Angular Momentum Multiplexed Free Space Optical Links',
-			link: '#',
 			body: 'Amhoud E, Chafii M, Nimr A, Fettweis G. IEEE VTC-Spring (Helsinki, Finland, April 2021).'
 		},
 		{
 			title: '[C35] Convolutional Neural Networks based Denoising for Indoor Localization',
-			link: '#',
 			body: 'Njima W, Chafii M, Nimr A, Fettweis G. IEEE VTC-Spring (Helsinki, Finland, April 2021).'
 		},
 		{
 			title: '[C34] Joint TRFI and Deep Learning for Vehicular Channel Estimation',
-			link: '#',
 			body: 'Gizzini A, Chafii M, Nimr A, Fettweis G. IEEE GLOBECOM Workshops (Taipei, Taiwan, December 2020)..'
 		},
 
@@ -207,17 +199,14 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		},
 		{
 			title: '[C32] Adaptive Channel Estimation based on DeepLearning',
-			link: '#',
 			body: 'Gizzini A, Chafii M, Nimr A, Fettweis G. IEEE VTC-fall (Victoria, Canada, October 2020).'
 		},
 		{
 			title: '[C31] A New Approach for Enhanced Detection Using Chirp Reference Signals',
-			link: '#',
 			body: 'Martinez A, Kumar A, Chafii M, Fettweis G. IEEE VTC-fall (Victoria, Canada, October 2020).'
 		},
 		{
 			title: '[C30] A New Approach for Accurate Time Synchronization Using Chirp Signals',
-			link: '#',
 			body: 'Martinez A, Kumar A ,Chafii M, Fettweis G. IEEE VTC-spring (Antwrep, Belgium, May 2020).'
 		},
 		{
@@ -227,12 +216,10 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		},
 		{
 			title: '[C28] A Study on Unique-Word based Synchronization for MIMO Systems over Time-Varying Channels',
-			link: '#',
 			body: 'Ehsanfar S, Chafii M, Fettweis G. IEEE WCNC (Seoul, Korea, April 2020).'
 		},
 		{
 			title: '[C27] A Chirp-Based Frequency Synchronization Approach for Flat Fading Channels',
-			link: '#',
 			body: 'Martinez A, Kumar A, Chafii M, Fettweis G. 6G Wireless Summit (Levi, Finland, March 2020).'
 		},
 		{
@@ -247,7 +234,6 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		},
 		{
 			title: '[C24] Cross-Layer Multi-User Selection in 5G Heterogeneous Networks Based on Hybrid Beamforming Optimization for Millimeter-Wave',
-			link: '#',
 			body: 'Fadel A, Nimr A, Chiang H, Chafii M, Cousin B. IEEE PIMRC (Istanbul, Turkey, September 2019).'
 		},
 		{
@@ -308,22 +294,18 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		},
 		{
 			title: '[C12] Performance Analysis of a 5G Transceiver Implementation for Remote Areas Scenarios',
-			link: '#',
 			body: 'Dias W, Gaspar D M, Mendes L, Maximilian M, Neuhaus P, Fettweis G. EuCNC (Ljubljana, Slovenia, 2018).'
 		},
 		{
 			title: '[C11] Fourier Based Adaptive Waveform,',
-			link: '#',
 			body: 'Chafii M, Palicot J,  Gribonval R, Faouzi B. ICT (Saint-Malo, France, June 2018).'
 		},
 		{
 			title: '[C10] Enhancing Coverage in Narrow Band-IoT Using Maching Learning',
-			link: '#',
 			body: 'Chafii M, Faouzi B, Palicot J. IEEE WCNC (Barcelona, Spain, 2017).'
 		},
 		{
 			title: '[C9] SC-FDMA with Index Modulation for M2M and IoT Uplink Applications',
-			link: '#',
 			body: 'Chafii M, Faouzi B, Palicot J. IEEE WCNC (Barcelona, Spain, 2017).'
 		},
 		{
@@ -350,12 +332,10 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 		{
 			title: '[C4] Wavelet-OFDM vs. OFDM : Performance Comparison',
-			link: '#',
 			body: 'Chafii M, Y. Harbi, Burr A. ICT (Thessaloniki, Greece, 2016).'
 		},
 		{
 			title: '[C3] Adaptive Tone-Reservation for better BER Performance in a Frequency Selective Fading Channel',
-			link: '#',
 			body: 'Chafii M, L. Diallo, Palicot J. IEEE VTC-Spring (Nanjing, China, 2016).'
 		},
 		{
@@ -374,12 +354,10 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 		{
 			title: 'L\'optimalité de l\'OFDM en termes de performance en PAPR',
-			link: '#',
 			body: 'Chafii M, Palicot J, Gribonval R. GRETSI, Lyon, France (2015).'
 		},
 		{
 			title: 'La modulation en ondelettes : une modulation alternative à faible consommation d\'energie',
-			link: '#',
 			body: 'Chafii M, Palicot J, Gribonval R. URSI, Rennes, France (2016) -- Best Paper Award'
 		}
 
@@ -388,7 +366,6 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 		{
 			title: 'New Adaptive Multicarrier Modulation',
-			link: '#',
 			body: 'Chafii M, Palicot J, Gribonval R. French patent. Number: 1000356937 (2017).'
 		}
 
