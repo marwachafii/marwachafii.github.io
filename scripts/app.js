@@ -549,17 +549,17 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		},
 		{
 			"title": "Chair of the special session \"Machine Learning for Communications\" IEEE SPAWC",
-			"link": "https://spawc2020.netlify.app/technical-program.html#S1569584614"
+			"link": "https://spawc2020.netlify.app/technical-program.html#S1569584614",
 			"body": "2020, Atlanta, USA, (Co-chairs: Jakob Hoydis and Osvaldo Simeone) "
 		},
 		{
 			"title": "TPC Chair of IEEE Globecom 2019 Workshop \"Machine learning for Wireless Communications\"",
-			"link": "https://gcwkshp2019mlwic.wixsite.com/mlwic"
+			"link": "https://gcwkshp2019mlwic.wixsite.com/mlwic",
 			"body": "2019, Hawaii, USA, (Chair: Elisabeth de Carvalho)"
 		},
 		{
 			"title": "Chair of the IEEE ComSoc \"Training school on Machine learning for Communications\"",
-			"link": "https://sites.google.com/view/mlc-training-school/"
+			"link": "https://sites.google.com/view/mlc-training-school/",
 			"body": "September 2019, Paris"
 		},
 		{
@@ -568,12 +568,12 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		},
 		{
 			"title": "Keynote on \"Opportunities of Deep Learning in Wireless Physical Layer\",  IEEE 5G Summit",
-			"link": "https://twitter.com/5g_lab/status/1044566789290676224?lang=en"
+			"link": "https://twitter.com/5g_lab/status/1044566789290676224?lang=en",
 			"body": "2018, Dresden, Germany"
 		},
 		{
 			"title": "Tutorial on \"Advanced waveforms for 5G\"  5G Lab Summer School",
-			"link": "https://twitter.com/comnets_tud/status/1043059799208943617"
+			"link": "https://twitter.com/comnets_tud/status/1043059799208943617",
 			"body": "2018, Dresden, Germany"
 		},
 		{
@@ -602,7 +602,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		},
 		{
 			"title": "Guest editor at Frontiers in Communications and Networks",
-			"link" : "https://www.frontiersin.org/research-topics/17035/index-modulation-for-6g-communications"
+			"link" : "https://www.frontiersin.org/research-topics/17035/index-modulation-for-6g-communications",
 			"body": "2020-present"
 		}
 	]
