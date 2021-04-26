@@ -80,6 +80,11 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.journals = [
 		{
+			title: '[J19] Filtered Multicarrier Waveforms Classification: A Deep Learning Based Approach.',
+			link: '#',
+			body: 'Zerhouni K, Amhoud E, Chafii M. IEEE Access, April 2021'
+		},		
+		{
 			title: '[J18] A Robust Baseband Transceiver Design for Doubly-Dispersive Channels.',
 			link: 'https://hal.archives-ouvertes.fr/hal-03161973/document',
 			body: 'Bomfin R, Chafii M, Nimr A, Fettweis G. IEEE Transactions on Wireless Communications, February 2021'
