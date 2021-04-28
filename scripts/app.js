@@ -386,12 +386,12 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 			body: [
 				"ENSEA (Ecole nationale superieure de l'Electronique et de ses Applications)",
 				"ETIS, UMR 8051",
-				"Université Paris-Seine, Université Cergy-Pontoise, ENSEA, CNRS",
+				"CY Paris Université, ENSEA, CNRS",
 				"France",
 			]
 		},
 		{
-			title: "Since February 2018: Research Group Leader",
+			title: "February 2018 - August 2018: Research Group Leader",
 			body: [
 				"Vodafone Chair Mobile Communications Systems",
 				"5G Lab Germany Technische Universität Dresden",
@@ -436,15 +436,15 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 			body: "Machine Learning Based Channel Estimation for Vehicular Communications"
 		},
 		{
-			title: "Roberto Bomfin (2018-2020)",
+			title: "Roberto Bomfin (2018-2021)",
 			body: "Waveform and Frame Design for Robust MIMO Space Time Coding Wireless Communications"
 		},
 		{
-			title: "Ana-Belen Martinez (2018-2020)",
+			title: "Ana-Belen Martinez (2018-2021)",
 			body: "Chirp-based Detection and Synchronization Techniques for Wireless Communications"
 		},
 		{
-			title: "Ahmad Nimr (2018-2020)",
+			title: "Ahmad Nimr (2018-2021)",
 			body: "Unified Framework for Multicarrier and Multiple Access based on Generalized Frequency Division Multiplexing"
 		},
 		{
@@ -467,17 +467,18 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.interests = [
 		{
+			title: "Wireless communications",
+			body: "Keywords: Waveform design for wireless communications;Index modulation; Peak-to-Average Power Ratio Reduction Problem"
+		},		
+		{
 			title: "Machine learning for Communications",
-			body: "Keywords: Deep learning for PHY; Reinforcement learning for resource allocation"
+			body: "Keywords: Deep learning for Indoor Localization, Deep learning for Channel Estimation"
 		},
 		{
 			title: "Signal processing for communications",
-			body: "Keywords: Channel estimation; Synchronization; Optimization Theory; Time-frequency and time-scale analysis"
+			body: "Keywords: Channel estimation; Synchronization; Time-frequency and time-scale analysis"
 		},
-		{
-			title: "Digital communications",
-			body: "Keywords: Advanced waveforms for wireless communications;Index modulation; Peak-to-Average Power Ratio Reduction Problem"
-		}
+
 	];
 
 	$scope.administrative = [
@@ -523,7 +524,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 	$scope.events = [
 		{
 			"title": "Co-chair of the IEEE ComSoc Training School on Machine Learning for Communications",
-			"body": "Planned on January 2022, Abu Dhabi, UAE (Chair: Taed Shubair)"
+			"body": "Planned on January 2022, Abu Dhabi, UAE (Chair: Raed Shubair)"
 		},
 		{
 			"title": "Co-chair of the IEEE WCNC Track: Machine Learning and Optimization for Wireless Systems",
