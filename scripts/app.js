@@ -438,7 +438,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		},
 		{
 			title: "Roberto Bomfin (2018-2021)",
-			body: "Waveform and Frame Design for Robust MIMO Space Time Coding Wireless Communications"
+			body: "Robust and Low-Complexity Waveform Design for Wireless Communications Systems Under Doubly Dispersive Channels"
 		},
 		{
 			title: "Ana-Belen Martinez (2018-2021)",
