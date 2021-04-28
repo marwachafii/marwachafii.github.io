@@ -229,6 +229,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		},
 		{
 			title: '[C27] A Chirp-Based Frequency Synchronization Approach for Flat Fading Channels',
+			link: 'https://www.researchgate.net/publication/341158654_A_Chirp-Based_Frequency_Synchronization_Approach_for_Flat_Fading_Channels',
 			body: 'Martinez A, Kumar A, Chafii M, Fettweis G. 6G Wireless Summit (Levi, Finland, March 2020).'
 		},
 		{
