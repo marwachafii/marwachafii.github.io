@@ -628,33 +628,22 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 			"body": ""
 		},
 		{
-			"title": "IEEE SPAWC 2020",
+			"title": "IEEE SPAWC 2020, 2021",
 			"body": ""
 		},
+		{
+			"title": "ISWCS 2018, 2017, 2021",
+			"body": ""
+		}		
 		{
 			"title": "IEEE ICASSP 2020",
 			"body": ""
 		},
+
 		{
-			"title": "IEEE VTC-spring 2020",
+			"title": "IEEE VTC-spring 2020, WiOpt 2019, I4CT2018, ICT 2018",
 			"body": ""
 		},
-		{
-			"title": "WiOpt 2019",
-			"body": ""
-		},
-		{
-			"title": "I4CT 2018",
-			"body": ""
-		},
-		{
-			"title": "ICT 2018",
-			"body": ""
-		},
-		{
-			"title": "ISWCS 2018, 2017",
-			"body": ""
-		}
 	]
 
 	$scope.awards = [
