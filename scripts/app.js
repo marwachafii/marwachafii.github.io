@@ -639,7 +639,6 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 			"title": "IEEE ICASSP 2020",
 			"body": ""
 		},
-
 		{
 			"title": "IEEE VTC-spring 2020, WiOpt 2019, I4CT2018, ICT 2018",
 			"body": ""
