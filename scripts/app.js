@@ -589,11 +589,11 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		},
 		{
 			"title": "Session chair of Workshop ML-WiC at IEEE Globecom",
-			"body": "2019"
+			"body": "2019, Hawaii"
 		},
 		{
 			"title": "Session chair of SPC-I1 Interactive Session 1 at IEEE Globecom",
-			"body": "2018"
+			"body": "2018, Abu Dhabi"
 		},
 		{
 			"title": "Session chair of the wireless workshop at IEEE 5G Summit",
@@ -601,7 +601,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		},
 		{
 			"title": "Session chair of PHY02 (Multicarrier Techniques), IEEE PIMRC",
-			"body": "2018"
+			"body": "2018, Istanbul"
 		}
 	]
 
