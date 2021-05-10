@@ -81,7 +81,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 	$scope.journals = [
 		{
 			title: '[J19] Filtered Multicarrier Waveforms Classification: A Deep Learning Based Approach.',
-			link: '#',
+			link: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9425589',
 			body: 'Zerhouni K, Amhoud E, Chafii M. IEEE Access, May 2021'
 		},		
 		{
