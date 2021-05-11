@@ -484,6 +484,11 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.administrative = [
 		{
+			title: "Leader of the Education working group of the IEEE ComSoc Integrated Sensing and Communication Emerging Technologies Initiative",
+			link: "https://isac.committees.comsoc.org/?_ga=2.205053011.2113553381.1620737478-1148819387.1606722468",
+			body: "2021 – present"
+		},		
+		{
 			title: "Vice-chair of the IEEE ComSoc Machine Learning for Communications Emerging Technologies Initiative",
 			link: "https://mlc.committees.comsoc.org/officers-2/",
 			body: "2018 – present"
@@ -532,11 +537,6 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 			"body": "Planned on 2022, Austin, USA (Chair: Deniz Gunduz)"
 		},
 		{
-			"title": "Invited talk on Women in AI in the TeamUp5G Workshop on Ethics and Inclusiveness for Telecommunications Engineers",
-			'link': "https://teamup5g.webs.tsc.uc3m.es/events/teamup5g-workshop-on-ethics-and-inclusiveness-for-telecommunications-engineers/",
-			"body": "Online, March 2021 (Chair: Ana Garcia Armada)"
-		},
-		{
 			"title": "Co-chair of the IEEE SPAWC 2021 Special Session: Machine Learning for Green and Sustainable Communications Beyond 5G",
 			"body": "Lucca, Italy (Chair: Himal Suraweera))"
 		},		
@@ -547,6 +547,16 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		{
 			"title": "Co-chair of the special session \"Selected topics on 6G Security\" ISWCS",
 			"body": "Planned on September 2021, Berlin, Germany, (Chair: Arsenia Chorti)"
+		},
+		{
+			"title": "Co-organizer of IEEE ComSoc ISAC-ETI Webinar Series",
+			'link': "https://sites.google.com/view/isac-webinar-series/home",
+			"body": "2021-present"
+		},		
+		{
+			"title": "Invited talk on Women in AI in the TeamUp5G Workshop on Ethics and Inclusiveness for Telecommunications Engineers",
+			'link': "https://teamup5g.webs.tsc.uc3m.es/events/teamup5g-workshop-on-ethics-and-inclusiveness-for-telecommunications-engineers/",
+			"body": "Online, March 2021 (Chair: Ana Garcia Armada)"
 		},
 		{
 			"title": "Co-chair of the \"Training school on machine learning for Communications\"",
