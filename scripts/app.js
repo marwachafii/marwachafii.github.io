@@ -80,6 +80,11 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.journals = [
 		{
+			title: '[J20] Alternative Chirp Spread Spectrum Techniques for LPWANs.',
+			link: 'https://arxiv.org/pdf/2102.09250.pdf',
+			body: 'Bizon I, Chafii M, Nimr A, Fettweis G. IEEE Transactions on Green Communications and Networking, May 2021'
+		},		
+		{
 			title: '[J19] Filtered Multicarrier Waveforms Classification: A Deep Learning Based Approach.',
 			link: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9425589',
 			body: 'Zerhouni K, Amhoud E, Chafii M. IEEE Access, May 2021'
