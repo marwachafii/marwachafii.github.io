@@ -203,7 +203,8 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		},
 		{
 			title: '[C34] Joint TRFI and Deep Learning for Vehicular Channel Estimation',
-			body: 'Gizzini A, Chafii M, Nimr A, Fettweis G. IEEE GLOBECOM Workshops (Taipei, Taiwan, December 2020)..'
+			link:'https://hal.archives-ouvertes.fr/hal-02951636/document',
+			body: 'Gizzini A, Chafii M, Nimr A, Fettweis G. IEEE GLOBECOM Workshops (Taipei, Taiwan, December 2020).'
 		},
 
 		{
