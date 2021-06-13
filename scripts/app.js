@@ -185,6 +185,10 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.publications = [
 		{
+			title: '[C39] Blind Transmitter Localization in Wireless Sensor Networks: A Deep Learning Approach',
+			body: 'Bizon Ivo, Chafii M, Nimr A, Fettweis G. IEEE PIMRC (September 2021).'
+		},		
+		{
 			title: '[C38] Channel Estimation for MIMO Space Time Coded OTFS under Doubly Selective Channels',
 			link:'https://arxiv.org/pdf/2104.01023.pdf',
 			body: 'Bomfin R, Chafii M, Nmr A, Fettweis G. IEEE ICC 2020 Workshops, Montreal, Canada.'
