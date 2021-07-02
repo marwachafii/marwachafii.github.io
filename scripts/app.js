@@ -538,25 +538,18 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 	]
 
 	$scope.events = [
-		{
-			"title": "Co-chair of the IEEE ComSoc Training School on Machine Learning for Communications",
-			"body": "Planned on January 2022, Abu Dhabi, UAE (Chair: Raed Shubair)"
-		},
+		
 		{
 			"title": "Co-chair of the IEEE WCNC Track: Machine Learning and Optimization for Wireless Systems",
-			"body": "Planned on 2022, Austin, USA (Chair: Deniz Gunduz)"
+			"body": "2022, Austin, USA"
 		},
 		{
 			"title": "Co-chair of the IEEE SPAWC 2021 Special Session: Machine Learning for Green and Sustainable Communications Beyond 5G",
-			"body": "Lucca, Italy (Chair: Himal Suraweera))"
+			"body": "Lucca, Italy"
 		},		
 		{
-			"title": "Chair of the \"Training school on Machine learning for communications\"",
-			"body": "Planned on September 2021, Berlin, Germany, (Co-chair: Slawomir Stanszak)"
-		},
-		{
 			"title": "Co-chair of the special session \"Selected topics on 6G Security\" ISWCS",
-			"body": "Planned on September 2021, Berlin, Germany, (Chair: Arsenia Chorti)"
+			"body": "September 2021, Berlin, Germany"
 		},
 		{
 			"title": "Co-organizer of IEEE ComSoc ISAC-ETI Webinar Series",
@@ -566,27 +559,27 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		{
 			"title": "Invited talk on Women in AI in the TeamUp5G Workshop on Ethics and Inclusiveness for Telecommunications Engineers",
 			'link': "https://teamup5g.webs.tsc.uc3m.es/events/teamup5g-workshop-on-ethics-and-inclusiveness-for-telecommunications-engineers/",
-			"body": "Online, March 2021 (Chair: Ana Garcia Armada)"
+			"body": "Online, March 2021"
 		},
 		{
 			"title": "Co-chair of the \"Training school on machine learning for Communications\"",
 			"link": "http://msit.tpu.ru/ieee/",
-			"body": "March 2021, Tomsk, Russia, Virtual, (Chair: Dush Nalin Jayakody)"
+			"body": "March 2021, Tomsk, Russia, Virtual"
 		},
 		{
 			"title": "Co-chair of the European Conference on Artificial Intelligence (ECAI)",
 			"link": "https://digital.ecai2020.eu/women-in-ai-time/",
-			"body": "September 2020, Organization of Women in AI Meeting, (Chair: Hanan Salam)"
+			"body": "September 2020, Organization of Women in AI Meeting"
 		},
 		{
 			"title": "Chair of the special session \"Machine Learning for Communications\" IEEE SPAWC",
 			"link": "https://spawc2020.netlify.app/technical-program.html#S1569584614",
-			"body": "2020, Atlanta, USA, (Co-chairs: Jakob Hoydis and Osvaldo Simeone) "
+			"body": "2020, Atlanta, USA "
 		},
 		{
 			"title": "TPC Chair of IEEE Globecom 2019 Workshop \"Machine learning for Wireless Communications\"",
 			"link": "https://gcwkshp2019mlwic.wixsite.com/mlwic",
-			"body": "2019, Hawaii, USA, (Chair: Elisabeth de Carvalho)"
+			"body": "2019, Hawaii, USA"
 		},
 		{
 			"title": "Chair of the IEEE ComSoc \"Training school on Machine learning for Communications\"",
