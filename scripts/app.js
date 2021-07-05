@@ -80,6 +80,10 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.journals = [
 		{
+			title: '[J21] Indoor Localization using Data Augmentation via Selective Generative Adversarial Networks',
+			body: 'Njima W, Chafii M, Chorti A, Shubair R, Poor V. IEEE Access, July 2021'
+		},
+		{
 			title: '[J20] Alternative Chirp Spread Spectrum Techniques for LPWANs.',
 			link: 'https://arxiv.org/pdf/2102.09250.pdf',
 			body: 'Bizon I, Chafii M, Nimr A, Fettweis G. IEEE Transactions on Green Communications and Networking, May 2021'
