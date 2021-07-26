@@ -189,6 +189,10 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.publications = [
 		{
+			title: '[C40] Indoor Localization Under Limited Measurements: A Cross-Environment Joint Semi-Supervised and Transfer Learning Approach',
+			body: 'AlHajri M, Shubair R, Chafii M. IEEE SPAWC (September 2021).'
+		},
+		{
 			title: '[C39] Blind Transmitter Localization in Wireless Sensor Networks: A Deep Learning Approach',
 			body: 'Bizon Ivo, Chafii M, Nimr A, Fettweis G. IEEE PIMRC (September 2021).'
 		},		
