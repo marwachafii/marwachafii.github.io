@@ -81,6 +81,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 	$scope.journals = [
 		{
 			title: '[J21] Indoor Localization using Data Augmentation via Selective Generative Adversarial Networks',
+			link:'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9477623',
 			body: 'Njima W, Chafii M, Chorti A, Shubair R, Poor V. IEEE Access, July 2021'
 		},
 		{
