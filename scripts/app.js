@@ -80,6 +80,10 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.journals = [
 		{
+			title: '[J22] Compressive Learning in Communication Systems: A Neural Network Receiver for Detecting Compressed Signals in OFDM Systems',
+			body: 'Carneiro P, Mendes L, Chafii M. IEEE Access, August 2021'
+		},		
+		{
 			title: '[J21] Indoor Localization using Data Augmentation via Selective Generative Adversarial Networks',
 			link:'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9477623',
 			body: 'Njima W, Chafii M, Chorti A, Shubair R, Poor V. IEEE Access, July 2021'
