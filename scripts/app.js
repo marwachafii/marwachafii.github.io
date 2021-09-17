@@ -80,7 +80,12 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.journals = [
 		{
+			title: '[J23] CNN aided Weighted Interpolation for Channel Estimation in Vehicular Communications',
+			body: 'Gizzini A, Chafii M, Nimr A, Shubair R, Fettweis G. IEEE Transactions on Vehicular Technlogy, September 2021'
+		},	
+		{
 			title: '[J22] Compressive Learning in Communication Systems: A Neural Network Receiver for Detecting Compressed Signals in OFDM Systems',
+			link:'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9523563',
 			body: 'Carneiro P, Mendes L, Chafii M. IEEE Access, August 2021'
 		},		
 		{
