@@ -204,8 +204,12 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.publications = [
 		{
-			title: '[C41] Temporal Averaging LSTM-based Channel Estimation Scheme for IEEE 802.11p Standard',
+			title: '[C42] Temporal Averaging LSTM-based Channel Estimation Scheme for IEEE 802.11p Standard',
 			body: 'Gizzini A, Chafii M, Ehsanfar S, Shubair R. IEEE Globecom, Madrid, Spain, (December 2021).'
+		},
+		{
+			title: '[C41]GAN Based Data Augmentation for Indoor Localization Using Labeled and Unlabeled Data',
+			body: 'Wafa N, Chafii M, Shubair R. BalkanCom, Novi Sad, Serbia (September 2021) - Invited paper.'
 		},
 		{
 			title: '[C40] Indoor Localization Under Limited Measurements: A Cross-Environment Joint Semi-Supervised and Transfer Learning Approach',
