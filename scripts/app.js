@@ -81,6 +81,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 	$scope.journals = [
 		{
 			title: '[J24] CNN aided Weighted Interpolation for Channel Estimation in Vehicular Communications',
+			link:'https://arxiv.org/pdf/2104.08813.pdf',
 			body: 'Gizzini A, Chafii M, Nimr A, Shubair R, Fettweis G. IEEE Transactions on Vehicular Technlogy, September 2021'
 		},	
 		{
@@ -204,7 +205,16 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.publications = [
 		{
+			title: '[C44] Performance Comparison of IEEE 802.11p, 802.11bd-draft and a Unique-Word-based PHY in Doubly-Dispersive Channels',
+			body: ' Ehsanfar S, Moessner K, Gizzini A, Chafii M. IEEE WCNC, Austin, US, (April 2022).'
+		},
+		{
+			title: '[C43] Iterative Receiver for Power-Domain NOMA with Mixed Waveforms',
+			body: 'Sigmund M, Bomfin R, Chafii M, Ahmad N, Fettweis G. IEEE WCNC, Austin, US, (April 2022).'
+		},
+		{
 			title: '[C42] Temporal Averaging LSTM-based Channel Estimation Scheme for IEEE 802.11p Standard',
+			link:'https://arxiv.org/pdf/2106.04829.pdf',
 			body: 'Gizzini A, Chafii M, Ehsanfar S, Shubair R. IEEE Globecom, Madrid, Spain, (December 2021).'
 		},
 		{
@@ -217,6 +227,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		},
 		{
 			title: '[C39] Blind Transmitter Localization in Wireless Sensor Networks: A Deep Learning Approach',
+			link:'https://www.vodafone-chair.org/media/publications/ivo-bizon/Blind_Transmitter_Localization_in_Wireless_Sensor_Networks_A_Deep_Learning_Approach.pdf',
 			body: 'Bizon Ivo, Chafii M, Nimr A, Fettweis G. IEEE PIMRC (September 2021).'
 		},		
 		{
