@@ -80,6 +80,10 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.journals = [
 		{
+			title: '[J25] Enhanced PSK-LoRa',
+			body: 'Azim A. W., Monsalve J. L. G., Chafii M. IEEE Wireless Communications Letters, December 2021'
+		}
+		{
 			title: '[J24] CNN aided Weighted Interpolation for Channel Estimation in Vehicular Communications',
 			link:'https://arxiv.org/pdf/2104.08813.pdf',
 			body: 'Gizzini A, Chafii M, Nimr A, Shubair R, Fettweis G. IEEE Transactions on Vehicular Technlogy, September 2021'
