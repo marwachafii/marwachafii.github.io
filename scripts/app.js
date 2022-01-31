@@ -80,28 +80,23 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.journals = [
 		{
-			title: '[J25] Enhanced PSK-LoRa',
+			title: '[J24] Enhanced PSK-LoRa',
 			body: 'Azim A. W., Monsalve J. L. G., Chafii M. IEEE Wireless Communications Letters, December 2021'
 		},
 		{
-			title: '[J24] CNN aided Weighted Interpolation for Channel Estimation in Vehicular Communications',
+			title: '[J23] CNN aided Weighted Interpolation for Channel Estimation in Vehicular Communications',
 			link:'https://arxiv.org/pdf/2104.08813.pdf',
 			body: 'Gizzini A, Chafii M, Nimr A, Shubair R, Fettweis G. IEEE Transactions on Vehicular Technlogy, September 2021'
 		},	
 		{
-			title: '[J23] Compressive Learning in Communication Systems: A Neural Network Receiver for Detecting Compressed Signals in OFDM Systems',
+			title: '[J22] Compressive Learning in Communication Systems: A Neural Network Receiver for Detecting Compressed Signals in OFDM Systems',
 			link:'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9523563',
 			body: 'Carneiro P, Mendes L, Chafii M. IEEE Access, August 2021'
 		},		
 		{
-			title: '[J22] Indoor Localization using Data Augmentation via Selective Generative Adversarial Networks',
+			title: '[J21] Indoor Localization using Data Augmentation via Selective Generative Adversarial Networks',
 			link:'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9477623',
 			body: 'Njima W, Chafii M, Chorti A, Shubair R, Poor V. IEEE Access, July 2021'
-		},
-		{
-			title: '[J21] MUSA Grant-Free Access Framework and Blind Detection Receiver',
-			link:'https://jcis.sbrt.org.br/jcis/article/view/771/523',
-			body: 'Aquino GP, Barbosa TC, Chafii M, Mendes LL, Gizzini AK. Journal of Communication and Information Systems, July 2021'
 		},
 		{
 			title: '[J20] Alternative Chirp Spread Spectrum Techniques for LPWANs.',
