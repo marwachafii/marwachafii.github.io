@@ -86,7 +86,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		{
 			title: '[J23] CNN aided Weighted Interpolation for Channel Estimation in Vehicular Communications',
 			link:'https://arxiv.org/pdf/2104.08813.pdf',
-			body: 'Gizzini A, Chafii M, Nimr A, Shubair R, Fettweis G. IEEE Transactions on Vehicular Technlogy, September 2021'
+			body: 'Gizzini A, Chafii M, Nimr A, Shubair R, Fettweis G. IEEE Transactions on Vehicular Technology, September 2021'
 		},	
 		{
 			title: '[J22] Compressive Learning in Communication Systems: A Neural Network Receiver for Detecting Compressed Signals in OFDM Systems',
@@ -232,7 +232,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		{
 			title: '[C38] Channel Estimation for MIMO Space Time Coded OTFS under Doubly Selective Channels',
 			link:'https://arxiv.org/pdf/2104.01023.pdf',
-			body: 'Bomfin R, Chafii M, Nmr A, Fettweis G. IEEE ICC 2020 Workshops, Montreal, Canada.'
+			body: 'Bomfin R, Chafii M, Nmr A, Fettweis G. IEEE ICC 2021 Workshops, Montreal, Canada.'
 		},		
 		{
 			title: '[C37] Sequence Design for Frame Detection Based on Autocorrelation',
