@@ -80,6 +80,12 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.journals = [
 		{
+			title: '[J25] Context-Aware Security for 6G Wireless: The Role of Physical Layer Security',
+			link:'https://arxiv.org/pdf/2101.01536.pdf',
+			body: 'Chorti A, Barreto A, Kopsell S, Zoli M, Chafii M, Sehier P, Fettweis G, Poor V, IEEE Communications Standards Magazine, February 2022'
+		},
+		
+		{
 			title: '[J24] Enhanced PSK-LoRa',
 			body: 'Azim A. W., Monsalve J. L. G., Chafii M. IEEE Wireless Communications Letters, December 2021'
 		},
