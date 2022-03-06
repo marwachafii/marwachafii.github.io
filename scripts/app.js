@@ -210,7 +210,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.publications = [
 		{
-			title: '[C45] Performance Comparison of IEEE 802.11p, 802.11bd-draft and a Unique-Word-based PHY in Doubly-Dispersive Channels',
+			title: '[C45] Waveform Design for Power-Domain Asynchronous NOMA',
 			body: ' Sigmund M, Bomfin R, Nimr A, Chafii M, Nimr A, Fettweis G. IEEE VTC-spring 2022, Helsinki, Finland.'
 		},
 		{
