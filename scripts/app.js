@@ -210,6 +210,10 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.publications = [
 		{
+			title: '[C45] Performance Comparison of IEEE 802.11p, 802.11bd-draft and a Unique-Word-based PHY in Doubly-Dispersive Channels',
+			body: ' Sigmund M, Bomfin R, Nimr A, Chafii M, Nimr A, Fettweis G. IEEE VTC-spring 2022, Helsinki, Finland.'
+		},
+		{
 			title: '[C44] Performance Comparison of IEEE 802.11p, 802.11bd-draft and a Unique-Word-based PHY in Doubly-Dispersive Channels',
 			body: ' Ehsanfar S, Moessner K, Gizzini A, Chafii M. IEEE WCNC, Austin, US, (April 2022).'
 		},
