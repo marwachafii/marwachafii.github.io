@@ -81,6 +81,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 	$scope.journals = [
 		{
 			title: '[J26] Low Complex Methods for Robust Channel Estimation in Doubly Dispersive Environments',
+			link: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9743925',
 			body: 'Gizzini A, Chafii M, IEEE Access, March 2022'
 		},
 		{
