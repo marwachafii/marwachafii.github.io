@@ -80,6 +80,10 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.journals = [
 		{
+			title: '[J27] A Novel Approach for Cancellation of Non-Aligned Inter Spreading Factor Interference in LoRa Systems',
+			body: 'Bizon I, Zhang Q, Kumar A, Martinez A, Chafii M, Fettweis G, IEEE Open Journal of the Communications Society (OJCOMS), April 2022'
+		},
+		{
 			title: '[J26] Low Complex Methods for Robust Channel Estimation in Doubly Dispersive Environments',
 			link: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9743925',
 			body: 'Gizzini A, Chafii M, IEEE Access, March 2022'
