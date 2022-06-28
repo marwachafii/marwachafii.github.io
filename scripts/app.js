@@ -80,6 +80,10 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.journals = [
 		{
+			title: '[J29] A Survey on Deep Learning based Channel Estimation in Doubly Dispersive Environments',
+			body: 'Gizzini A, Chafii M, IEEE Access, July 2022'
+		},
+		{
 			title: '[J28] DNN-based Indoor Localization Under Limited Dataset using GANs and Semi-Supervised Learning',
 			body: 'Njima W, Bazzi A, Chafii M, IEEE Access, July 2022'
 		},
