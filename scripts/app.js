@@ -85,6 +85,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		},
 		{
 			title: '[J28] DNN-based Indoor Localization Under Limited Dataset using GANs and Semi-Supervised Learning',
+			link:'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9812625',
 			body: 'Njima W, Bazzi A, Chafii M, IEEE Access, July 2022'
 		},
 		{
