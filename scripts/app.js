@@ -81,6 +81,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 	$scope.journals = [
 		{
 			title: '[J29] A Survey on Deep Learning based Channel Estimation in Doubly Dispersive Environments',
+			link:'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9813719',
 			body: 'Gizzini A, Chafii M, IEEE Access, July 2022'
 		},
 		{
