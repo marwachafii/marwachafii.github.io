@@ -257,7 +257,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		{
 			title: '[C42] Temporal Averaging LSTM-based Channel Estimation Scheme for IEEE 802.11p Standard',
 			link:'https://arxiv.org/pdf/2106.04829.pdf',
-			body: 'Gizzini A, Chafii M, Ehsanfar S, Shubair R. IEEE Globecom, Madrid, Spain, (December 2021).'
+			body: 'Gizzini A, Chafii M, Ehsanfar S, Shubair R. IEEE GLOBECOM, Madrid, Spain, (December 2021).'
 		},
 		{
 			title: '[C41]GAN Based Data Augmentation for Indoor Localization Using Labeled and Unlabeled Data',
