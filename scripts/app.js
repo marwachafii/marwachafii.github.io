@@ -235,16 +235,16 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 	$scope.publications = [
 		{
 			title: '[C47] Maximum a-Posteriori Equalizer for Sparse Walsh Hadamard Modulation',
-			body: ' Bomfin R, Chafii M, Nimr A, Fettweis G. IEEE GLOBECOM 2022, Rio de Janeiro, Brazil.'
+			body: ' Bomfin R, Chafii M, Nimr A, Fettweis G. IEEE GLOBECOM, Rio de Janeiro, Brazil (December 2022).'
 		},
 		
 		{
 			title: '[C46] Experimental Performance of Blind Position Estimation Using Deep Learning',
-			body: ' Bizon I, Li Z,  Nimr A, Chafii M, Fettweis G. IEEE GLOBECOM 2022, Rio de Janeiro, Brazil.'
+			body: ' Bizon I, Li Z,  Nimr A, Chafii M, Fettweis G. IEEE GLOBECOM, Rio de Janeiro, Brazil (December 2022).'
 		},
 		{
 			title: '[C45] Waveform Design for Power-Domain Asynchronous NOMA',
-			body: ' Sigmund M, Bomfin R, Chafii M, Nimr A, Fettweis G. IEEE VTC-spring 2022, Helsinki, Finland.'
+			body: ' Sigmund M, Bomfin R, Chafii M, Nimr A, Fettweis G. IEEE VTC-spring, Helsinki, Finland (June 2022).'
 		},
 		{
 			title: '[C44] Performance Comparison of IEEE 802.11p, 802.11bd-draft and a Unique-Word-based PHY in Doubly-Dispersive Channels',
