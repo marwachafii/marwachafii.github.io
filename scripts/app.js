@@ -80,6 +80,10 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.journals = [
 		{
+			title: '[J31] Meta Distribution of Partial-NOMA',
+			body: 'Ali K, Al-Dweik A, Hossain E, Chafii M, IEEE Wireless Communications Letters, October 2022'
+		},
+		{
 			title: '[J30] Dual-Mode Chirp Spread Spectrum Modulation',
 			body: 'Azim A, Bazzi A, Shubair R, Chafii M, IEEE Wireless Communications Letters, July 2022'
 		},
