@@ -238,6 +238,10 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.publications = [
 		{
+			title: '[C48] Blind Transmitter Localization Using Deep Learning: A Scalability Study',
+			body: ' Bizon I, Nimr A, Schulz P, Chafii M,  Fettweis G. IEEE WCNC, Glasgow, Scoltand (March 2023).'
+		},
+		{
 			title: '[C47] Maximum a-Posteriori Equalizer for Sparse Walsh Hadamard Modulation',
 			body: ' Bomfin R, Chafii M, Nimr A, Fettweis G. IEEE GLOBECOM, Rio de Janeiro, Brazil (December 2022).'
 		},
