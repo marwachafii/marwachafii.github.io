@@ -80,6 +80,14 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.journals = [
 		{
+			title: '[J33] On Outage-based Beamforming Design for Dual-Functional Radar-Communication 6G Systems',
+			body: 'Bazzi A, Chafii M, IEEE Transactions on Wireless Communications, January 2023'
+		},		
+		{
+			title: '[J32] On Optimality of Gamma Approximation for Lognormal Shadowing Models',
+			body: 'Dang S, Ye J, Beach M, Chafii M, IEEE Antennas and Wireless Propagation Letters, December 2022'
+		},		
+		{
 			title: '[J31] Meta Distribution of Partial-NOMA',
 			body: 'Ali K, Al-Dweik A, Hossain E, Chafii M, IEEE Wireless Communications Letters, October 2022'
 		},
