@@ -247,7 +247,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 	$scope.publications = [
 				{
 			title: '[C49] Deep Learning Based Channel Estimation In High Mobility Communications Using Bi-RNN Networks',
-			body: ' Gizzini A, Chafii M. IEEE ICC, Rome, Italy Mai 2023).'
+			body: ' Gizzini A, Chafii M. IEEE ICC, Rome, Italy (Mai 2023).'
 		},
 		{
 			title: '[C48] Blind Transmitter Localization Using Deep Learning: A Scalability Study',
