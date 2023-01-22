@@ -469,18 +469,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		}
 
 	];
-	$scope.nationals = [
-
-		{
-			title: 'L\'optimalité de l\'OFDM en termes de performance en PAPR',
-			body: 'Chafii M, Palicot J, Gribonval R. GRETSI, Lyon, France (2015).'
-		},
-		{
-			title: 'La modulation en ondelettes : une modulation alternative à faible consommation d\'energie',
-			body: 'Chafii M, Palicot J, Gribonval R. URSI, Rennes, France (2016) -- Best Paper Award'
-		}
-
-	];
+	
 	$scope.patents = [
 
 		{
