@@ -57,11 +57,6 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 			"fr": "Recherche"
 		},
 		//Navigation
-		"CV": {
-			"en": "CV",
-			"fr": "CV"
-		},
-		//Navigation
 		"TEACHING": {
 			"en": "Teaching",
 			"fr": "Enseignement"
