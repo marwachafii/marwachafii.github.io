@@ -495,51 +495,6 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	];
 
-	$scope.cv = [
-		{
-			title: "Since September 2018: Associate Professor ",
-			body: [
-				"ENSEA (Ecole nationale superieure de l'Electronique et de ses Applications)",
-				"ETIS, UMR 8051",
-				"CY Paris Université, ENSEA, CNRS",
-				"France",
-			]
-		},
-		{
-			title: "February 2018 - August 2018: Research Group Leader",
-			body: [
-				"Vodafone Chair Mobile Communications Systems",
-				"5G Lab Germany Technische Universität Dresden",
-				"Germany"
-			]
-		},
-		{
-			title: "2017: Postdoctoral researcher",
-			body: [
-				"CentraleSup'elec, France",
-				"Topic :Enhancing the coverage for Low Power Wide Area networks",
-				"(LPWA) technologies for Internet of Things (IoT) applications."
-			]
-		},
-		{
-			title: "2013-2016: PhD",
-			body: [
-				"IETR, CentraleSupélec, France ",
-				"Topic : Study of a New Waveform for Multi-Carrier Systems with low Peak-to-Average Power Ratio (PAPR)",
-				'July-August 2016: Resarch visit at Oxford university, UK.',
-				'July-August 2015: Resarch visit at Yokohama National University, Japan.',
-				'June-July 2015: Research visit at the University of York, United Kingdom.',
-				'June-July 2014: Research visit at the Poznan University of Technology, Poland.'
-
-			]
-		},
-		{
-			title: "2012-2013: Master ",
-			body: [
-				"Master in Research, with Honors “Advanced Wireless Communication Systems (SAR)” at CentraleSupélec (ex. Supélec, Gif), France"
-			]
-		}
-	];
 
 	$scope.students = [
 		{
