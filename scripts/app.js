@@ -57,18 +57,13 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 			"fr": "Recherche"
 		},
 		//Navigation
-		"TEACHING": {
-			"en": "Teaching",
-			"fr": "Enseignement"
-		},
-		//Navigation
 		"SERVICES": {
 			"en": "Service",
 			"fr": "Services"
 		},
 		//Navigation
 		"AWARDS": {
-			"en": "Awards and Recognitions",
+			"en": "Awards and Honors",
 			"fr": "Awards and Recognitions"
 		}
 	};
@@ -703,9 +698,15 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.awards = [
 		{
-			title: "IEEE Communications Letters Best Editor Award",
+			title: " IEEE ComSoc Best Young Researcher Award:",
 			body: [
-				"2020"
+				"in Europe, Middle-East Africa (EMEA) region for research activities for the benefit of the IEEE Communications Society, 2020"
+			]
+		},		
+		{
+			title: "Best Editor Award for IEEE Communications Letters:",
+			body: [
+				"Machine Learning for Communications Track in 2020"
 			]
 		},
 		{
@@ -716,7 +717,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 			]
 		},
 		{
-			title: "PEDR premium for doctoral supervision and research (2019-2023)",
+			title: "PEDR Award for Doctoral Supervision and Research (2019-2023)",
 			body: [
 				"The French National Council of Universities (CNU 61)",
 			]
@@ -728,12 +729,6 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 			]
 		},
 		{
-			title: "Premium of scientific excellence (2018 - 2022)",
-			body: [
-				"CY Initiative of Excellence",
-			]
-		},
-		{
 			title: "Prize of the Best Ph.D. in France in the fields: Signal, Image & Vision",
 			link: "http://www.gretsi.fr/prix-de-these.php",
 			body: [
@@ -742,7 +737,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 			]
 		},
 		{
-			title: "Winning forst place in the « Machine Learning Challenge », at the training school « Machine & Deep Learning Techniques for (Beyond) 5G Wireless Communications Systems »",
+			title: "First place in the « Machine Learning Challenge », at the training school « Machine & Deep Learning Techniques for (Beyond) 5G Wireless Communications Systems »",
 			body: [
 				"April 2019, Barcelona, Spain",
 			]
