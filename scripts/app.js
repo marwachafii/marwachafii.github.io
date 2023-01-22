@@ -552,50 +552,61 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.administrative = [
 		{
+			title: "Vice-chair, Green ISAC Special Interest Group of the IEEE TCGCC",
+			body: "'22–"
+		},
+		{
+			title: "Vice-chair, IEEE ComSoc UAE Chapter",
+			body: "'22–"
+		},
+		{
 			title: "Leader of the Education working group of the IEEE ComSoc Integrated Sensing and Communication Emerging Technologies Initiative",
 			link: "https://isac.committees.comsoc.org/?_ga=2.205053011.2113553381.1620737478-1148819387.1606722468",
-			body: "2021 – present"
+			body: "'21–"
 		},		
 		{
 			title: "Vice-chair of the IEEE ComSoc Machine Learning for Communications Emerging Technologies Initiative",
 			link: "https://mlc.committees.comsoc.org/officers-2/",
-			body: "2018 – present"
+			body: "'18–"
 		},
 		{
-			title: "Research projects leader at Women in AI organization",
-			link: "https://www.womeninai.co/",
-			body: "2018 - present"
+			title: "Founding member, IEEE OTFS-special Interest Group",
+			body: "'21–"
 		},
 		{
 			title: "Co-chair of the Gender Committee of the AI4EU Community",
 			link: "https://www.ai4eu.eu/gender-diversity-ai",
-			body: "2019 - present"
+			body: "'19–'21"
 		},	
 		{
-			title: "Research Representative of the partnership between ENSEA, France and Barkhausen Institute, Germany",
-			link: "https://www.barkhauseninstitut.org/en/about-us/partners",
-			body: "2021 - present"
+			title: "Research projects leader, Women in AI organization",
+			link: "https://www.womeninai.co/",
+			body: "'18–'21"
 		},
-		{
-			title: "Coordinator of the partnership between ENSEA, France and Inatel, Brazil",
-			link: "https://inatel.br/home/",
-			body: "2019 - present"
-		},		
-		{
-			title: "Member of the governing body of ENSEA",
-			body: "2020 - present"
-		},
-		{
-			title: "President of the association of PhDs and Ph.D. students of IETR",
-			body: "2014-2016"
-		},
-		{
-			title: "Representative of IETR doctoral students at the laboratory council",
-			body: "2016"
-		}
+
 	]
 
 	$scope.events = [
+		{
+			"title": "General vice-chair, IEEE WCNC 2024",
+			"body": "Dubai, UAE, '24"
+		},
+		{
+			"title": "Workshop co-chair, IEEE WCNC 2023, Workshop on Delay-Doppler Communications, Sensing, and Their Integration",
+			"body": "Glasgow, Scotland, '23"
+		},
+		{
+			"title": "Symposium co-chair, IEEE ICC 2023 Symposium on Selected Areas in Communications: Machine Learning for Communication and Networking Track",
+			"body": "Rome, Italy, '23"
+		},
+		{
+			"title": "General chair, IEEE 6G Training School",
+			"body": "UAE, '22"
+		},
+		{
+			"title": "TPC co-chair, Abu Dhabi 6G Summit 2022",
+			"body": "'22"
+		},
 		
 		{
 			"title": "Co-chair of the IEEE WCNC Track: Machine Learning and Optimization for Wireless Systems",
@@ -678,43 +689,33 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.editorial = [
 		{
+			"title": "Associate Editor, IEEE Transactions on Communications",
+			"body": "'22–'23"
+		},
+		{
+			"title": "Guest Editor, IEEE Communications Magazine: Data Sets for Machine Learning in Wireless Communications and Networks",
+			"body": "'23"
+		},
+		{
+			"title": "Guest Editor, IEEE Internet of Things Magazine: Emerging Trends and Challenges in Internet-of-Underwater-Things",
+			"body": "'22"
+		},
+		{
+			"title": "Guest Editor, Open Journal of the Communications Society (OJ-COMS), Special issue on Integrated Sensing and Communications for Multi-functional Networks in 6G Era",
+			"body": "'22"
+		},
+		{
 			"title": "Associate Editor for IEEE Communications Letters :  Machine learning for communications Track",
 			"link": "https://www.comsoc.org/publications/journals/ieee-comml/ieee-communications-letters-editorial-board",
-			"body": "2019-present"
+			"body": "'19–'21"
 		},
 		{
 			"title": "Guest editor at Frontiers in Communications and Networks",
 			"link" : "https://www.frontiersin.org/research-topics/17035/index-modulation-for-6g-communications",
-			"body": "2020-present"
+			"body": "''21"
 		}
 	]
 
-	$scope.tpc = [
-		{
-			"title": "IEEE ICC 2019,  2020, 2021",
-			"body": ""
-		},
-		{
-			"title": "IEEE Globecom 2019,  2020, 2021",
-			"body": ""
-		},
-		{
-			"title": "IEEE SPAWC 2020, 2021",
-			"body": ""
-		},
-		{
-			"title": "ISWCS 2018, 2017, 2021",
-			"body": ""
-		},		
-		{
-			"title": "IEEE ICASSP 2020",
-			"body": ""
-		},
-		{
-			"title": "IEEE VTC-spring 2020, WiOpt 2019, I4CT2018, ICT 2018",
-			"body": ""
-		},
-	]
 
 	$scope.awards = [
 		{
