@@ -477,27 +477,27 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.students = [
 		{
-			title: "Akhileswar Chowdary (Fall '22 -)",
+			title: "Akhileswar Chowdary (Fall '22–)",
 			body: "New York University Tandon School of Engineering"
 		},
 		{
-			title: "Salmane Naoumi (Fall '22 -)",
+			title: "Salmane Naoumi (Fall '22–)",
 			body: "New York University Tandon School of Engineering"
 		},		
 		{
-			title: "Ivo Bizon (Fall '18 -)",
+			title: "Ivo Bizon (Fall '18–)",
 			body: "TU Dresden, Germany"
 		},
 		{
-			title: "Abdul karim Gizzini (Spring '21-Fall '22)",
+			title: "Abdul karim Gizzini (Spring '21–Fall '22)",
 			body: "ETIS (CY Paris University, ENSEA, CNRS), France"
 		},
 		{
-			title: "Roberto Bomfin (Spring '18– Fall '21)",
+			title: "Roberto Bomfin (Spring '18–Fall '21)",
 			body: "TU Dresden, Germany"
 		},
 		{
-			title: "Ana-Belen Martinez (Spring '18- Fall '22)",
+			title: "Ana-Belen Martinez (Spring '18–Fall '22)",
 			body: "TU Dresden, Germany"
 		},
 		{
@@ -511,19 +511,19 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 	];
 
 	$scope.postdocs = [
-		{	"title": "Roberto Bomfin (Fall '22 -)",
+		{	"title": "Roberto Bomfin (Fall '22–)",
 			"body": "New York University Abu Dhabi"
 			
 		},		
-		{	"title": "Ahmad Bazzi (Spring '22 -)",
+		{	"title": "Ahmad Bazzi (Spring '22–)",
 			"body": "New York University Abu Dhabi"
 			
 		},
-		{	"title": "Konpal Ali (Spring '22 -)",
+		{	"title": "Konpal Ali (Spring '22–)",
 			"body": "New York University Abu Dhabi"
 			
 		},
-		{	"title": "Abdulkarim Gizzini (Spring '21– Fall '22)",
+		{	"title": "Abdulkarim Gizzini (Spring '21–Fall '22)",
 			"body": "ETIS (CY Paris University, ENSEA, CNRS), France"
 			
 		},
