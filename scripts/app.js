@@ -53,7 +53,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		},
 		//Navigation
 		"RESEARCH": {
-			"en": "Research",
+			"en": "Advising",
 			"fr": "Recherche"
 		},
 		//Navigation
@@ -68,7 +68,7 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 		},
 		//Navigation
 		"SERVICES": {
-			"en": "Services",
+			"en": "Service",
 			"fr": "Services"
 		},
 		//Navigation
