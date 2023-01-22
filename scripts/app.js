@@ -477,39 +477,47 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.students = [
 		{
-			title: "Ivo Bizon (2019-2022)",
-			body: "Contributions to Internet of Things Communications: From Long Range to Location Aware Networks"
+			title: "Akhileswar Chowdary (Fall '22 -)",
+			body: "New York University Tandon School of Engineering"
 		},
 		{
-			title: "Abdul karim Gizzini (2019-2021)",
-			body: "Machine Learning Based Channel Estimation for Vehicular Communications"
+			title: "Salmane Naoumi (Fall '22 -)",
+			body: "New York University Tandon School of Engineering"
+		},		
+		{
+			title: "Ivo Bizon (Fall '18 -)",
+			body: "TU Dresden, Germany"
 		},
 		{
-			title: "Roberto Bomfin (2018-2021)",
-			body: "Robust and Low-Complexity Waveform Design for Wireless Communications Systems Under Doubly Dispersive Channels"
+			title: "Abdul karim Gizzini (Spring '21-Fall '22)",
+			body: "ETIS (CY Paris University, ENSEA, CNRS), France"
 		},
 		{
-			title: "Ana-Belen Martinez (2018-2021)",
-			body: "Chirp-based Detection and Synchronization Techniques for Wireless Communications"
+			title: "Roberto Bomfin (Spring '18– Fall '21)",
+			body: "TU Dresden, Germany"
 		},
 		{
-			title: "Ahmad Nimr (2018-2021)",
-			body: "Unified Framework for Multicarrier and Multiple Access based on Generalized Frequency Division Multiplexing"
+			title: "Ana-Belen Martinez (Spring '18- Fall '22)",
+			body: "TU Dresden, Germany"
 		},
 		{
-			title: "Shahab Ehsan Far (2018-2020)",
-			body: "Advanced Channel Estimation Techniques for MIMO Multi-Carrier Systems in Doubly-Dispersive Channels"
+			title: "Ahmad Nimr (Spring '18–Fall '21)",
+			body: "TU Dresden, Germany"
+		},
+		{
+			title: "Shahab Ehsan Far (Spring '18–Fall '20)",
+			body: "TU Dresden, Germany"
 		}
 	];
 
 	$scope.postdocs = [
-		{
-			"title": "Wafa Njima (2020-2021)",
-			"body": "Machine learning-based Indoor Localization"
+		{	"title": "Abdulkarim Gizzini (Spring '21– Fall '22)",
+			"body": "Channel Charting"
+			
 		},
 		{
-			"title": "Muralikrishnan Srinivasan (2021-2022)",
-			"body": "Channel Charting"
+			"title": "Wafa Njima (Fall '20–Spring '21)",
+			"body": "ETIS (CY Paris University, ENSEA, CNRS), France"
 		}
 	]
 
