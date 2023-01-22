@@ -511,8 +511,20 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 	];
 
 	$scope.postdocs = [
+		{	"title": "Roberto Bomfin (Fall '22 -)",
+			"body": "New York University Abu Dhabi"
+			
+		},		
+		{	"title": "Ahmad Bazzi (Spring '22 -)",
+			"body": "New York University Abu Dhabi"
+			
+		},
+		{	"title": "Konpal Ali (Spring '22 -)",
+			"body": "New York University Abu Dhabi"
+			
+		},
 		{	"title": "Abdulkarim Gizzini (Spring '21– Fall '22)",
-			"body": "Channel Charting"
+			"body": "ETIS (CY Paris University, ENSEA, CNRS), France"
 			
 		},
 		{
