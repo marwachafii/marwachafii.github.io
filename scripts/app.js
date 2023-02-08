@@ -70,6 +70,10 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.journals = [
 		{
+			title: '[J34] Twelve Scientific Challenges for 6G: Rethinking the Foundations of Communications Theory',
+			body: 'Chafii, M., Bariah, L., Muhaidat, S. and Debbah, M., IEEE Communications Surveys & Tutorials, February 2023'
+		},
+		{
 			title: '[J33] On Outage-based Beamforming Design for Dual-Functional Radar-Communication 6G Systems',
 			body: 'Bazzi A, Chafii M, IEEE Transactions on Wireless Communications, January 2023'
 		},		
