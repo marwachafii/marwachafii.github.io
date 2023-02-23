@@ -70,6 +70,10 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.journals = [
 		{
+			title: '[J35] On Integrated Sensing and Communication Waveforms with Tunable PAPR',
+			body: 'Bazzi A, Chafii M, IEEE Transactions on Wireless Communications, March 2023'
+		},		
+		{
 			title: '[J34] Twelve Scientific Challenges for 6G: Rethinking the Foundations of Communications Theory',
 			body: 'Chafii, M., Bariah, L., Muhaidat, S. and Debbah, M., IEEE Communications Surveys & Tutorials, February 2023'
 		},
