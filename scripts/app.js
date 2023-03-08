@@ -727,9 +727,15 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.awards = [
 		{
+			title: " Award of the Highest Number of Activities  in 2022",
+			body: [
+				"by the IEEE Section, 2023"
+			]
+		},		
+		{
 			title: " IEEE ComSoc Best Young Researcher Award:",
 			body: [
-				"in Europe, Middle-East Africa (EMEA) region for research activities for the benefit of the IEEE Communications Society, 2020"
+				"in Europe, Middle-East Africa (EMEA) region for research activities for the benefit of the IEEE Communications Society, 2022"
 			]
 		},		
 		{
