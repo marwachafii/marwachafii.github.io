@@ -243,7 +243,11 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 	];
 
 	$scope.publications = [
-				{
+		{
+			title: '[C50] Hypothesis Testing on FMCW and OFDM for Joint Communication and Radar in IEEE 802.11bd',
+			body: ' Ehsanfar S, Bazzi A, K Moessner, Chafii M. IEEE ICC Workshops, Rome, Italy (Mai 2023).'
+		},		
+		{
 			title: '[C49] Deep Learning Based Channel Estimation In High Mobility Communications Using Bi-RNN Networks',
 			body: ' Gizzini A, Chafii M. IEEE ICC, Rome, Italy (Mai 2023).'
 		},
