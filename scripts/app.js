@@ -71,14 +71,17 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 	$scope.journals = [
 		{
 			title: '[J35] On Integrated Sensing and Communication Waveforms with Tunable PAPR',
+			link: 'https://arxiv.org/pdf/2210.02892.pdf',
 			body: 'Bazzi A, Chafii M, IEEE Transactions on Wireless Communications, March 2023'
 		},		
 		{
 			title: '[J34] Twelve Scientific Challenges for 6G: Rethinking the Foundations of Communications Theory',
+			link: 'https://arxiv.org/pdf/2207.01843.pdf',
 			body: 'Chafii, M., Bariah, L., Muhaidat, S. and Debbah, M., IEEE Communications Surveys & Tutorials, February 2023'
 		},
 		{
 			title: '[J33] On Outage-based Beamforming Design for Dual-Functional Radar-Communication 6G Systems',
+			link: 'https://arxiv.org/pdf/2207.04921.pdf',
 			body: 'Bazzi A, Chafii M, IEEE Transactions on Wireless Communications, January 2023'
 		},		
 		{
