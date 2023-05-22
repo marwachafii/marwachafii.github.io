@@ -70,6 +70,10 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.journals = [
 		{
+			title: '[J36] Deep Neural Network Augmented Wireless Channel Estimation for Preamble-based OFDM PHY on Zynq System on Chip',
+			body: 'Ul haq S.A, Gizzini A, Shrey S, Darak S, Saurabh S, and Chafii M, IEEE Transactions on Very Large Scake Integration Systems, 2023'
+		},		
+		{
 			title: '[J35] On Integrated Sensing and Communication Waveforms with Tunable PAPR',
 			link: 'https://arxiv.org/pdf/2210.02892.pdf',
 			body: 'Bazzi A, Chafii M, IEEE Transactions on Wireless Communications, March 2023'
@@ -246,6 +250,14 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 	];
 
 	$scope.publications = [
+		{
+			title: '[C52] Deep Learning-based Estimation for Multitarget Radar Detection',
+			body: ' Mamady D, Bazzi A, Chafii M, Amhoud M. IEEE VTC-Spring (2023).'
+		},
+		{
+			title: '[C51] Robust Integrated Sensing and Communication Beamforming for Dual-functional Radar and Communications: Method and Insights',
+			body: ' Bazzi A, Chafii M. URSI GASS (2023).'
+		},
 		{
 			title: '[C50] Hypothesis Testing on FMCW and OFDM for Joint Communication and Radar in IEEE 802.11bd',
 			body: ' Ehsanfar S, Bazzi A, K Moessner, Chafii M. IEEE ICC Workshops, Rome, Italy (Mai 2023).'
