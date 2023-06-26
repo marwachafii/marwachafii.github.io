@@ -70,8 +70,12 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.journals = [
 		{
+			title: '[J37] Dual-Mode Time Domain Multiplexed Chirp Spread Spectrum',
+			body: 'Azim A. W., Bazzi A, Mahrukh F, Shubair R, and Chafii M, IEEE Transactions on Vehicular Technology, 2023'
+		},
+		{
 			title: '[J36] Deep Neural Network Augmented Wireless Channel Estimation for Preamble-based OFDM PHY on Zynq System on Chip',
-			body: 'Ul haq S.A, Gizzini A, Shrey S, Darak S, Saurabh S, and Chafii M, IEEE Transactions on Very Large Scake Integration Systems, 2023'
+			body: 'Ul haq S.A, Gizzini A, Shrey S, Darak S, Saurabh S, and Chafii M, IEEE Transactions on Very Large Scale Integration Systems, 2023'
 		},		
 		{
 			title: '[J35] On Integrated Sensing and Communication Waveforms with Tunable PAPR',
