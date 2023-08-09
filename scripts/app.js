@@ -255,6 +255,23 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.publications = [
 		{
+			title: '[C56] A Dynamic Transmission Strategy for ISAC in Large Networks',
+			body: ' Ali K, Chafii M. IEEE GLOBECOM (2023).'
+		},
+		{
+			title: '[C55] SCA-Based Beamforming Optimization for IRS-Enabled Secure Integrated Sensing and Communication',
+			body: ' Kumar V, Chafii M, Swindlehurst L, Tran L, Flanagan M. IEEE GLOBECOM (2023).'
+		},
+		{
+			title: '[C54] Emergent Communication in Multi-Agent Reinforcement Learning for Flying Base Stations',
+			body: ' Naoumi S, Alami R, Hacid H, Almazrouei E, Debbah M, Bennis M, Chafii M. IEEE MeditCom (2023).'
+		},
+		{
+			title: '[C53] Uplink and Downlink Communications Fusion for Enhanced Radar Sensing',
+			body: ' Chowdary A, Bazzi A, Chafii M. IEEE SPAWC (2023).'
+		},
+		
+		{
 			title: '[C52] Deep Learning-based Estimation for Multitarget Radar Detection',
 			body: ' Mamady D, Bazzi A, Chafii M, Amhoud M. IEEE VTC-Spring (2023).'
 		},
