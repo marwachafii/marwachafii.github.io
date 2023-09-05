@@ -70,6 +70,10 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.journals = [
 		{
+			title: '[J38] Emergent Communication in Multi-Agent Reinforcement Learning for Future Wireless Networks',
+			body: 'Chafii M, Naoumi S, Alami R, Almazrouei E, Bennis M, Debbah M, IEEE Internet of Things Magazine, 2023'
+		},
+		{
 			title: '[J37] Dual-Mode Time Domain Multiplexed Chirp Spread Spectrum',
 			body: 'Azim A. W., Bazzi A, Mahrukh F, Shubair R, and Chafii M, IEEE Transactions on Vehicular Technology, 2023'
 		},
