@@ -70,6 +70,10 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.journals = [
 		{
+			title: '[J39] Sparse-DFT and WHT Precoding with Iterative Detection for Highly Frequency-Selective Channels',
+			body: 'Bomfin R, Chafii M, IEEE Transactions on Wireless Communications, 2023'
+		},
+		{
 			title: '[J38] Emergent Communication in Multi-Agent Reinforcement Learning for Future Wireless Networks',
 			body: 'Chafii M, Naoumi S, Alami R, Almazrouei E, Bennis M, Debbah M, IEEE Internet of Things Magazine, 2023'
 		},
