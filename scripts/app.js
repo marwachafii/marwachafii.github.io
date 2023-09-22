@@ -263,6 +263,10 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.publications = [
 		{
+			title: '[C57] Deep Learning-Enabled Angle Estimation in Bistatic ISAC Systems',
+			body: ' Naoumi S, Bazzi A, Bomfin R, Chafii M. IEEE GLOBECOM Wkshps (2023).'
+		},
+		{
 			title: '[C56] A Dynamic Transmission Strategy for ISAC in Large Networks',
 			body: ' Ali K, Chafii M. IEEE GLOBECOM (2023).'
 		},
