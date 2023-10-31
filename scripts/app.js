@@ -70,6 +70,10 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.journals = [
 		{
+			title: '[J40] Layered Chirp Spread Spectrum Modulations for LPWANs',
+			body: 'Azim A, Bazzi A, Bomfin R, Shubair R, Chafii M, IEEE Transactions on Communications, 2023'
+		},
+		{
 			title: '[J39] Sparse-DFT and WHT Precoding with Iterative Detection for Highly Frequency-Selective Channels',
 			body: 'Bomfin R, Chafii M, IEEE Transactions on Wireless Communications, 2023'
 		},
