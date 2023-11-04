@@ -70,6 +70,10 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.journals = [
 		{
+			title: '[J41] RNN Based Channel Estimation in Doubly Selective Environments',
+			body: 'Gizzini A, Chafii M, IEEE Transactions on Machine Learning in Communications and Networking, 2023'
+		},
+		{
 			title: '[J40] Layered Chirp Spread Spectrum Modulations for LPWANs',
 			body: 'Azim A, Bazzi A, Bomfin R, Shubair R, Chafii M, IEEE Transactions on Communications, 2023'
 		},
