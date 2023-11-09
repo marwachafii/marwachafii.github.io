@@ -70,6 +70,10 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.journals = [
 		{
+			title: '[J42] Physical Layer Security of Partial-NOMA and NOMA in Poisson Networks',
+			body: 'Ali K, Dweik An Hossain E, Chafii M, IEEE Transactions on Wireless Communications, 2023'
+		},
+		{
 			title: '[J41] RNN Based Channel Estimation in Doubly Selective Environments',
 			body: 'Gizzini A, Chafii M, IEEE Transactions on Machine Learning in Communications and Networking, 2023'
 		},
