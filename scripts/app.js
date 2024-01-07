@@ -70,6 +70,15 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.journals = [
 		{
+			title: '[J44] Secure Full Duplex Integrated Sensing and Communications',
+			body: 'Bazzi A, Chafii M, IEEE Transactions on Information Forensics & Security, 2024'
+		},
+		{
+			title: '[J43] Chirp Spread Spectrum-based Waveform Design and Detection Mechanisms for LPWAN-based IoT - A Survey',
+			body: 'Ali A, Shubair R, Chafii M, IEEE Access, 2024'
+		},
+		
+		{
 			title: '[J42] Physical Layer Security of Partial-NOMA and NOMA in Poisson Networks',
 			body: 'Ali K, Dweik An Hossain E, Chafii M, IEEE Transactions on Wireless Communications, 2023'
 		},
