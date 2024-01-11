@@ -284,6 +284,22 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.publications = [
 		{
+			title: '[C61] A System Level Analysis for Integrated Sensing and Communication',
+			body: ' Bomfin R, Bazzi A, Chafii M. IEEE WCNC (2024).'
+		},
+		{
+			title: '[C60] RIS-Enabled Integrated Sensing and Communication for 6G Systems',
+			body: ' Wang D, Bazzi A, Chafii M. IEEE WCNC (2024).'
+		},
+		{
+			title: '[C59] Full-Stack End-to-End Sub-THz Simulations at 140 GHz using NYUSIM Channel Model in ns-3',
+			body: ' Poddar H, Chowdary A, Rappaport T, Chafii M. IEEE WCNC (2024).'
+		},
+		{
+			title: '[C58] Successive Interference Cancellation for ISAC in a Large Full-Duplex Cellular Network',
+			body: ' Ali K, Bomfin R, Chafii M. IEEE WCNC (2024).'
+		},
+		{
 			title: '[C57] Deep Learning-Enabled Angle Estimation in Bistatic ISAC Systems',
 			body: ' Naoumi S, Bazzi A, Bomfin R, Chafii M. IEEE GLOBECOM Wkshps (2023).'
 		},
