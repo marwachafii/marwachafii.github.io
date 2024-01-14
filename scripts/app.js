@@ -70,6 +70,10 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.journals = [
 		{
+			title: '[J45] On Hybrid Radar Fusion for Integrated Sensing and Communication',
+			body: 'Chowdary A, Bazzi A, Chafii M, IEEE Transactions on Wireless Communications, 2024'
+		},
+		{
 			title: '[J44] Secure Full Duplex Integrated Sensing and Communications',
 			body: 'Bazzi A, Chafii M, IEEE Transactions on Information Forensics & Security, 2024'
 		},
