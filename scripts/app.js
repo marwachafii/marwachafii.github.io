@@ -70,6 +70,10 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.journals = [
 		{
+			title: '[J46] Complex Neural Network based Joint AoA and AoD Estimation for Bistatic ISAC',
+			body: 'Naoumi S, Bazzi A, Bomfin R, Chafii M, IEEE Journal of Selected Topics in Signal Processing, 2024'
+		},
+		{
 			title: '[J45] On Hybrid Radar Fusion for Integrated Sensing and Communication',
 			body: 'Chowdary A, Bazzi A, Chafii M, IEEE Transactions on Wireless Communications, 2024'
 		},
