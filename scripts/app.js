@@ -70,6 +70,10 @@ app.controller('controller', ['$scope', '$rootScope', '$location', function ($sc
 
 	$scope.journals = [
 		{
+			title: '[J47] Impact of Network Geometry on Large Networks with Intelligent Reflecting Surfaces',
+			body: 'Aliu K, Hanggi M, Dweik A, Chafii M, IEEE Transactions on Vehicular Technology, 2024'
+		},
+		{
 			title: '[J46] Complex Neural Network based Joint AoA and AoD Estimation for Bistatic ISAC',
 			body: 'Naoumi S, Bazzi A, Bomfin R, Chafii M, IEEE Journal of Selected Topics in Signal Processing, 2024'
 		},
